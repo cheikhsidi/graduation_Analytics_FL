@@ -1,0 +1,1295 @@
+,Unnamed: 0,School Name,Required to Apply,SAT 25% Percentile,SAT 75% Percentile,ACT 25% Percentile,ACT 75% Percentile,State
+0,,"Alabama A & M University  Normal, AL",Required,850,1030,45,57,AL
+1,,"Alabama State University  Montgomery, AL",Required,860,1030,45,58,AL
+2,,"Auburn University  Auburn, AL",Required,1150,1310,73,91,AL
+3,,"Auburn University at Montgomery  Montgomery, AL",Required,990,1140,53,69,AL
+4,,"Birmingham Southern College  Birmingham, AL",Required,1040,1220,65,86,AL
+5,,"Faulkner University  Montgomery, AL",Required,1020,1190,50,74,AL
+6,,"Huntingdon College  Montgomery, AL",Required,998,1150,54,71,AL
+7,,"Jacksonville State University  Jacksonville, AL",Required,910,930,56,78,AL
+8,,"Judson College  Marion, AL",Required,1030,1165,49,69,AL
+9,,"Marion Military Institute  Marion, AL",Required,1090,1280,55,78,AL
+10,,"Oakwood University  Huntsville, AL",Required,942,1010,46,66,AL
+11,,"Samford University  Birmingham, AL",Required,1072,1270,68,88,AL
+12,,"Spring Hill College  Mobile, AL",Required,1015,1185,58,76,AL
+13,,"The University of Alabama  Tuscaloosa, AL",Required,1060,1280,67,94,AL
+14,,"Troy University  Troy, AL",Required,960,1145,53,73,AL
+15,,"Tuskegee University  Tuskegee, AL",Required,-,-,49,87,AL
+16,,"University of Alabama at Birmingham  Birmingham, AL",Required,980,1240,62,86,AL
+17,,"University of Alabama in Huntsville  Huntsville, AL",Required,1010,1380,74,95,AL
+18,,"University of Mobile  Mobile, AL",Required,890,1087,51,73,AL
+19,,"University of Montevallo  Montevallo, AL",Required,-,-,58,79,AL
+20,,"University of North Alabama  Florence, AL",Required,1010,1190,56,76,AL
+21,,"University of South Alabama  Mobile, AL",Required,1040,1240,61,82,AL
+22,,"University of West Alabama  Livingston, AL",Required,860,1020,52,69,AL
+0,,"University of Alaska Fairbanks  Fairbanks, AK",Required,1050,1270,53,75,AK
+0,,"Arizona Christian University  Phoenix, AZ",Required,930,1125,49,65,AZ
+1,,"Arizona State University-Downtown Phoenix  Phoenix, AZ",Required,1080,1270,59,78,AZ
+2,,"Arizona State University-Polytechnic  Mesa, AZ",Required,1100,1310,62,82,AZ
+3,,"Arizona State University-Tempe  Tempe, AZ",Required,1130,1360,65,86,AZ
+4,,"Arizona State University-West  Glendale, AZ",Required,1050,1250,55,75,AZ
+5,,"University of Arizona  Tucson, AZ",Recommended,1070,1310,61,82,AZ
+0,,"Arkansas State University-Main Campus  Jonesboro, AR",Required,1030,1196,63,81,AR
+1,,"Baptist Health College-Little Rock  Little Rock, AR",Required,-,-,49,56,AR
+2,,"Central Baptist College  Conway, AR",Required,880,1030,47,66,AR
+3,,"Harding University  Searcy, AR",Required,1060,1300,65,87,AR
+4,,"Henderson State University  Arkadelphia, AR",Required,978,1130,56,74,AR
+5,,"Hendrix College  Conway, AR",Required,1160,1390,79,96,AR
+6,,"John Brown University  Siloam Springs, AR",Required,1110,1365,67,90,AR
+7,,"Lyon College  Batesville, AR",Required,1040,1188,63,84,AR
+8,,"Ouachita Baptist University  Arkadelphia, AR",Required,1040,1250,62,86,AR
+9,,"Southern Arkansas University Main Campus  Magnolia, AR",Required,1000,1220,54,73,AR
+10,,"University of Arkansas  Fayetteville, AR",Required,1100,1290,68,88,AR
+11,,"University of Arkansas at Little Rock  Little Rock, AR",Required,950,1190,54,75,AR
+12,,"University of Arkansas at Pine Bluff  Pine Bluff, AR",Required,890,1040,47,61,AR
+13,,"University of Central Arkansas  Conway, AR",Required,970,1170,61,81,AR
+14,,"Williams Baptist College  Walnut Ridge, AR",Required,-,-,50,66,AR
+0,,"Azusa Pacific University  Azusa, CA",Required,1020,1240,61,81,CA
+1,,"Biola University  La Mirada, CA",Required,1060,1260,62,81,CA
+2,,"California Baptist University  Riverside, CA",Required,990,1200,54,74,CA
+3,,"California Institute of Technology  Pasadena, CA",Required,1530,1580,105,108,CA
+4,,"California Lutheran University  Thousand Oaks, CA",Required,1070,1250,62,79,CA
+5,,"California Polytechnic State University-San Luis Obispo  San Luis Obispo, CA",Required,1240,1430,78,97,CA
+6,,"California State Polytechnic University-Pomona  Pomona, CA",Required,1020,1260,56,80,CA
+7,,"California State University-Chico  Chico, CA",Required,1000,1190,52,73,CA
+8,,"California State University-Fresno  Fresno, CA",Required,920,1120,47,66,CA
+9,,"California State University-Fullerton  Fullerton, CA",Required,1040,1220,55,73,CA
+10,,"California State University-Long Beach  Long Beach, CA",Required,1040,1250,58,78,CA
+11,,"California State University-Los Angeles  Los Angeles, CA",Required,890,1080,45,60,CA
+12,,"California State University-Monterey Bay  Seaside, CA",Required,960,1160,50,69,CA
+13,,"California State University-Northridge  Northridge, CA",Required,930,1130,47,66,CA
+14,,"California State University-Sacramento  Sacramento, CA",Required,940,1130,47,67,CA
+15,,"California State University-San Bernardino  San Bernardino, CA",Required,910,1080,46,60,CA
+16,,"California State University-San Marcos  San Marcos, CA",Required,960,1140,50,66,CA
+17,,"Chapman University  Orange, CA",Required,1190,1370,75,93,CA
+18,,"Charles R Drew University of Medicine and Science  Los Angeles, CA",,850,1070,56,70,CA
+19,,"Claremont McKenna College  Claremont, CA",Required,1350,1500,91,102,CA
+20,,"Concordia University-Irvine  Irvine, CA",Required,1030,1220,59,80,CA
+21,,"Dominican University of California  San Rafael, CA",Required,1035,1210,58,76,CA
+22,,"Fresno Pacific University  Fresno, CA",Required,968,1140,49,69,CA
+23,,"Harvey Mudd College  Claremont, CA",Required,1490,1560,102,106,CA
+24,,"Holy Names University  Oakland, CA",Required,713,870,50,65,CA
+25,,"Hope International University  Fullerton, CA",Required,930,1090,52,69,CA
+26,,"Humboldt State University  Arcata, CA",Required,970,1170,51,72,CA
+27,,"John Paul the Great Catholic University  Escondido, CA",Required,960,1240,59,87,CA
+28,,"La Sierra University  Riverside, CA",Required,900,1120,49,69,CA
+29,,"Life Pacific College  San Dimas, CA",Required,900,1096,47,67,CA
+30,,"Loyola Marymount University  Los Angeles, CA",Required,1210,1390,79,94,CA
+31,,"Menlo College  Atherton, CA",Required,916,1150,52,68,CA
+32,,"Mills College  Oakland, CA",,1008,1240,61,86,CA
+33,,"Mount Saint Mary's University  Los Angeles, CA",Required,930,1130,15(CM Only),20(CM Only),CA
+34,,"Notre Dame de Namur University  Belmont, CA",Required,870,1060,48,63,CA
+35,,"Occidental College  Los Angeles, CA",Required,1270,1450,84,97,CA
+36,,"Otis College of Art and Design  Los Angeles, CA",Recommended,1050,1270,58,79,CA
+37,,"Pacific Union College  Angwin, CA",Required,950,1190,51,73,CA
+38,,"Pepperdine University  Malibu, CA",Required,1220,1420,78,96,CA
+39,,"Point Loma Nazarene University  San Diego, CA",Required,1140,1300,71,87,CA
+40,,"Pomona College  Claremont, CA",Required,1400,1540,94,104,CA
+41,,"Providence Christian College  Pasadena, CA",,-,-,17(CM Only),23(CM Only),CA
+42,,"Saint Mary's College of California  Moraga, CA",Required,1060,1250,63,81,CA
+43,,"San Diego Christian College  Santee, CA",Required,973,1140,47,70,CA
+44,,"San Diego State University  San Diego, CA",Required,1110,1310,66,84,CA
+45,,"San Francisco State University  San Francisco, CA",Required,950,1160,49,70,CA
+46,,"San Jose State University  San Jose, CA",Required,1030,1260,55,78,CA
+47,,"Santa Clara University  Santa Clara, CA",Required,1270,1440,26(CM Only),30(CM Only),CA
+48,,"Scripps College  Claremont, CA",Required,1300,1480,90,99,CA
+49,,"Simpson University  Redding, CA",Required,966,1160,53,75,CA
+50,,"Soka University of America  Aliso Viejo, CA",Required,1180,1410,74,92,CA
+51,,"Sonoma State University  Rohnert Park, CA",Required,980,1170,52,70,CA
+52,,"Stanford University  Stanford, CA",Required,1420,1570,96,106,CA
+53,,"The Master's University and Seminary  Santa Clarita, CA",Required,990,1250,63,81,CA
+54,,"Thomas Aquinas College  Santa Paula, CA",Required,1220,1400,76,90,CA
+55,,"University of California-Berkeley  Berkeley, CA",Required,1320,1530,88,105,CA
+56,,"University of California-Davis  Davis, CA",Required,1160,1400,70,94,CA
+57,,"University of California-Irvine  Irvine, CA",Required,1190,1410,73,97,CA
+58,,"University of California-Los Angeles  Los Angeles, CA",Required,1290,1520,87,103,CA
+59,,"University of California-Merced  Merced, CA",Required,1020,1190,54,74,CA
+60,,"University of California-Riverside  Riverside, CA",Required,1110,1330,67,87,CA
+61,,"University of California-San Diego  La Jolla, CA",Required,1260,1470,78,100,CA
+62,,"University of California-Santa Barbara  Santa Barbara, CA",Required,1230,1460,79,99,CA
+63,,"University of California-Santa Cruz  Santa Cruz, CA",Required,1190,1400,75,95,CA
+64,,"University of La Verne  La Verne, CA",Required,1020,1205,57,76,CA
+65,,"University of Redlands  Redlands, CA",Required,1080,1260,65,85,CA
+66,,"University of San Diego  San Diego, CA",Required,1190,1360,75,92,CA
+67,,"University of San Francisco  San Francisco, CA",Required,1130,1330,68,87,CA
+68,,"University of Southern California  Los Angeles, CA",Required,1350,1530,90,103,CA
+69,,"University of the Pacific  Stockton, CA",Required,1120,1350,66,92,CA
+70,,"Vanguard University of Southern California  Costa Mesa, CA",Required,950,1120,15(CM Only),21(CM Only),CA
+71,,"Westmont College  Santa Barbara, CA",Required,1110,1370,68,92,CA
+72,,"Whittier College  Whittier, CA",,1030,1213,18(CM Only),23(CM Only),CA
+73,,"William Jessup University  Rocklin, CA",Required,960,1173,55,74,CA
+74,,"Woodbury University  Burbank, CA",,946,1130,54,76,CA
+0,,"Adams State University  Alamosa, CO",Required,870,1080,48,67,CO
+1,,"Colorado Mesa University  Grand Junction, CO",Required,940,1050,53,73,CO
+2,,"Colorado School of Mines  Golden, CO",Required,1290,1450,83,100,CO
+3,,"Colorado State University-Fort Collins  Fort Collins, CO",Required,1070,1280,66,84,CO
+4,,"Colorado State University-Pueblo  Pueblo, CO",Required,920,1120,51,72,CO
+5,,"Fort Lewis College  Durango, CO",Required,1010,1200,52,70,CO
+6,,"Metropolitan State University of Denver  Denver, CO",Required,900,1110,49,69,CO
+7,,"Regis University  Denver, CO",Required,1050,1230,61,80,CO
+8,,"United States Air Force Academy  USAF Academy, CO",Required,1230,1410,82,99,CO
+9,,"University of Colorado Boulder  Boulder, CO",Required,1150,1360,73,92,CO
+10,,"University of Colorado Colorado Springs  Colorado Springs, CO",Required,1010,1210,59,78,CO
+11,,"University of Colorado Denver/Anschutz Medical Campus  Denver, CO",Required,1020,1210,60,78,CO
+12,,"University of Denver  Denver, CO",Required,1170,1370,75,93,CO
+13,,"University of Northern Colorado  Greeley, CO",Required,990,1190,56,75,CO
+14,,"Western State Colorado University  Gunnison, CO",Required,1000,1170,55,74,CO
+0,,"Albertus Magnus College  New Haven, CT",Required,810,1050,51,59,CT
+1,,"Central Connecticut State University  New Britain, CT",Required,980,1170,54,71,CT
+2,,"Connecticut College  New London, CT",,1290,1430,85,96,CT
+3,,"Quinnipiac University  Hamden, CT",Required,1090,1260,67,84,CT
+4,,"Southern Connecticut State University  New Haven, CT",Required,920,1130,57,69,CT
+5,,"Trinity College  Hartford, CT",,1300,1460,85,98,CT
+6,,"United States Coast Guard Academy  New London, CT",,1245,1420,76,95,CT
+7,,"University of Bridgeport  Bridgeport, CT",Required,900,1090,46,71,CT
+8,,"University of Connecticut  Storrs, CT",Required,1210,1420,77,96,CT
+9,,"University of Connecticut-Avery Point  Groton, CT",Required,1020,1210,60,76,CT
+10,,"University of Connecticut-Hartford Campus  Hartford, CT",Required,1020,1210,59,76,CT
+11,,"University of Connecticut-Stamford  Stamford, CT",Required,990,1210,65,82,CT
+12,,"University of Connecticut-Waterbury Campus  Waterbury, CT",Required,990,1200,55,71,CT
+13,,"University of Hartford  West Hartford, CT",Required,1050,1250,20(CM Only),26(CM Only),CT
+14,,"University of New Haven  West Haven, CT",Required,1030,1220,57,77,CT
+15,,"University of Saint Joseph  West Hartford, CT",,1030,1210,-,-,CT
+16,,"Yale University  New Haven, CT",Required,1460,1570,99,106,CT
+0,,"American University  Washington, DC",,1220,1380,78,94,DC
+1,,"Gallaudet University  Washington, DC",Required,792,1078,42,58,DC
+2,,"George Washington University  Washington, DC",,1280,1460,85,98,DC
+3,,"Georgetown University  Washington, DC",Required,1370,1530,92,103,DC
+4,,"Howard University  Washington, DC",Required,1140,1285,64,81,DC
+0,,"Delaware State University  Dover, DE",Required,840,1010,48,65,DE
+1,,"University of Delaware  Newark, DE",Required,1160,1350,73,91,DE
+2,,"Wesley College  Dover, DE",Required,820,1023,41,58,DE
+0,,"Adventist University of Health Sciences  Orlando, FL",Required,910,1080,52,66,FL
+1,,"Ave Maria University  Ave Maria, FL",Required,1050,1260,58,81,FL
+2,,"Barry University  Miami, FL",Required,910,1080,49,64,FL
+3,,"Eckerd College  Saint Petersburg, FL",Required,1080,1280,67,85,FL
+4,,"Edward Waters College  Jacksonville, FL",Required,830,1040,42,52,FL
+5,,"Flagler College-St Augustine  Saint Augustine, FL",Required,1030,1220,59,76,FL
+6,,"Florida Agricultural and Mechanical University  Tallahassee, FL",Required,1040,1170,54,69,FL
+7,,"Florida Atlantic University  Boca Raton, FL",Required,1080,1240,61,76,FL
+8,,"Florida College  Temple Terrace, FL",Required,960,1128,58,80,FL
+9,,"Florida Gulf Coast University  Fort Myers, FL",Required,1060,1210,60,75,FL
+10,,"Florida Institute of Technology  Melbourne, FL",Required,1150,1340,74,92,FL
+11,,"Florida International University  Miami, FL",Required,1090,1260,65,80,FL
+12,,"Florida Polytechnic University  Lakeland, FL",Required,1220,1368,78,93,FL
+13,,"Florida Southern College  Lakeland, FL",Required,1130,1300,67,86,FL
+14,,"Florida State University  Tallahassee, FL",Required,1200,1350,76,90,FL
+15,,"Jacksonville University  Jacksonville, FL",,900,1205,59,80,FL
+16,,"Johnson University Florida  Kissimmee, FL",Required,910,1110,46,62,FL
+17,,"Lynn University  Boca Raton, FL",,990,1170,56,70,FL
+18,,"Medical Prep Institute of Tampa Bay  Tampa, FL",,950,1150,49,62,FL
+19,,"New College of Florida  Sarasota, FL",Required,1220,1420,74,94,FL
+20,,"Nova Southeastern University  Fort Lauderdale, FL",Required,1080,1290,65,85,FL
+21,,"Palm Beach Atlantic University  West Palm Beach, FL",Required,1000,1220,58,78,FL
+22,,"Saint Leo University  Saint Leo, FL",,960,1150,55,76,FL
+23,,"Southeastern University  Lakeland, FL",,950,1160,52,72,FL
+24,,"St Thomas University  Miami Gardens, FL",Required,950,1140,47,62,FL
+25,,"The Baptist College of Florida  Graceville, FL",Required,830,870,46,75,FL
+26,,"The University of Tampa  Tampa, FL",Required,1090,1250,63,80,FL
+27,,"The University of West Florida  Pensacola, FL",Required,1080,1250,65,80,FL
+28,,"Trinity Baptist College  Jacksonville, FL",Required,905,955,44,58,FL
+29,,"Trinity College of Florida  Trinity, FL",Required,840,1140,43,58,FL
+30,,"University of Central Florida  Orlando, FL",Required,1160,1340,71,86,FL
+31,,"University of Florida  Gainesville, FL",Required,1280,1440,79,96,FL
+32,,"University of Florida-Online  Gainesville, FL",Required,1160,1320,68,85,FL
+33,,"University of Miami  Coral Gables, FL",Required,1250,1430,84,98,FL
+34,,"University of North Florida  Jacksonville, FL",Required,1120,1280,61,79,FL
+35,,"University of South Florida-Main Campus  Tampa, FL",Required,1170,1330,72,88,FL
+36,,"University of South Florida-Sarasota-Manatee  Sarasota, FL",Required,1136,1288,67,83,FL
+37,,"University of South Florida-St Petersburg  St. Petersburg, FL",Required,1100,1250,65,79,FL
+38,,"Warner University  Lake Wales, FL",,890,1090,46,63,FL
+39,,"Webber International University  Babson Park, FL",Required,876,1060,48,60,FL
+0,,"Abraham Baldwin Agricultural College  Tifton, GA",Required,930,1130,48,65,GA
+1,,"Albany State University  Albany, GA",Required,750,900,42,52,GA
+2,,"Andrew College  Cuthbert, GA",Required,820,1040,42,57,GA
+3,,"Augusta University  Augusta, GA",Required,1110,1242,58,76,GA
+4,,"Berry College  Mount Berry, GA",Required,1110,1310,68,88,GA
+5,,"Brenau University  Gainesville, GA",,910,1130,48,68,GA
+6,,"Brewton-Parker College  Mount Vernon, GA",,860,1055,44,56,GA
+7,,"Clark Atlanta University  Atlanta, GA",Required,950,1110,16(CM Only),19(CM Only),GA
+8,,"College of Coastal Georgia  Brunswick, GA",Required,910,1100,48,65,GA
+9,,"Columbus State University  Columbus, GA",Required,870,1100,51,69,GA
+10,,"Covenant College  Lookout Mountain, GA",Required,1120,1350,68,90,GA
+11,,"Emmanuel College  Franklin Springs, GA",Required,930,1150,51,61,GA
+12,,"Emory University  Atlanta, GA",Required,1350,1520,29(CM Only),32(CM Only),GA
+13,,"Emory University-Oxford College  Oxford, GA",Required,1340,1510,28(CM Only),31(CM Only),GA
+14,,"Fort Valley State University  Fort Valley, GA",Required,833,1070,47,58,GA
+15,,"Georgia College & State University  Milledgeville, GA",Required,1110,1280,67,81,GA
+16,,"Georgia Institute of Technology-Main Campus  Atlanta, GA",Required,1390,1540,93,103,GA
+17,,"Georgia Southern University  Statesboro, GA",Required,1060,1200,60,75,GA
+18,,"Georgia Southwestern State University  Americus, GA",Required,940,1120,52,66,GA
+19,,"Georgia State University  Atlanta, GA",Required,1060,1250,60,78,GA
+20,,"Gordon State College  Barnesville, GA",Required,850,1040,43,58,GA
+21,,"Kennesaw State University  Kennesaw, GA",Required,1080,1270,62,78,GA
+22,,"LaGrange College  Lagrange, GA",Required,1020,1180,56,69,GA
+23,,"Life University  Marietta, GA",Required,860,1070,48,62,GA
+24,,"Mercer University  Macon, GA",Required,1180,1340,73,90,GA
+25,,"Middle Georgia State University  Macon, GA",Required,880,1080,47,60,GA
+26,,"Morehouse College  Atlanta, GA",Required,1010,1210,57,76,GA
+27,,"Oglethorpe University  Atlanta, GA",Required,1110,1290,63,81,GA
+28,,"Paine College  Augusta, GA",Required,780,980,40,51,GA
+29,,"Piedmont College  Demorest, GA",Required,970,1180,54,73,GA
+30,,"Point University  West Point, GA",,880,1085,47,67,GA
+31,,"Reinhardt University  Waleska, GA",Required,1000,1190,53,71,GA
+32,,"Savannah College of Art and Design  Savannah, GA",Required,1030,1230,60,82,GA
+33,,"Savannah State University  Savannah, GA",Required,1220,1380,62,79,GA
+34,,"Shorter University  Rome, GA",Required,920,1140,50,71,GA
+35,,"Spelman College  Atlanta, GA",Required,1080,1220,63,78,GA
+36,,"Toccoa Falls College  Toccoa Falls, GA",Required,960,1160,51,71,GA
+37,,"Truett McConnell University  Cleveland, GA",Required,920,1143,48,67,GA
+38,,"University of Georgia  Athens, GA",Required,1240,1410,80,96,GA
+39,,"University of North Georgia  Dahlonega, GA",Required,1025,1230,57,75,GA
+40,,"University of West Georgia  Carrollton, GA",Required,920,1080,53,66,GA
+41,,"Valdosta State University  Valdosta, GA",Required,1000,1140,54,68,GA
+42,,"Wesleyan College  Macon, GA",Required,930,1110,51,63,GA
+43,,"Young Harris College  Young Harris, GA",Required,930,1130,52,69,GA
+0,,"Brigham Young University-Hawaii  Laie, HI",Required,1083,1250,62,79,HI
+1,,"Chaminade University of Honolulu  Honolulu, HI",Required,970,1130,56,71,HI
+2,,"Hawaii Pacific University  Honolulu, HI",Required,1020,1220,56,81,HI
+3,,"University of Hawaii at Hilo  Hilo, HI",Required,960,1170,49,69,HI
+4,,"University of Hawaii at Manoa  Honolulu, HI",Required,1050,1240,60,78,HI
+5,,"University of Hawaii-West Oahu  Kapolei, HI",,930,1110,47,64,HI
+0,,"Boise Bible College  Boise, ID",Required,980,1170,52,68,ID
+1,,"Boise State University  Boise, ID",Required,1030,1220,60,78,ID
+2,,"Brigham Young University-Idaho  Rexburg, ID",Required,1010,1210,57,77,ID
+3,,"Lewis-Clark State College  Lewiston, ID",Required,890,1110,48,67,ID
+4,,"New Saint Andrews College  Moscow, ID",Required,1140,1370,68,86,ID
+5,,"Northwest Nazarene University  Nampa, ID",Required,1020,1250,58,81,ID
+6,,"University of Idaho  Moscow, ID",Required,1010,1220,57,78,ID
+0,,"Aurora University  Aurora, IL",Required,970,1150,53,71,IL
+1,,"Benedictine University  Lisle, IL",Required,980,1188,56,75,IL
+2,,"Blackburn College  Carlinville, IL",Required,960,1140,50,66,IL
+3,,"Bradley University  Peoria, IL",Required,1090,1290,69,86,IL
+4,,"Chicago State University  Chicago, IL",Required,905,1020,48,64,IL
+5,,"Concordia University-Chicago  River Forest, IL",Required,990,1170,57,75,IL
+6,,"Dominican University  River Forest, IL",Required,950,1130,54,72,IL
+7,,"Eastern Illinois University  Charleston, IL",Required,920,1110,51,68,IL
+8,,"Elmhurst College  Elmhurst, IL",Required,993,1190,58,78,IL
+9,,"Eureka College  Eureka, IL",Required,950,1170,50,72,IL
+10,,"Governors State University  University Park, IL",Required,860,1045,47,59,IL
+11,,"Greenville University  Greenville, IL",Required,920,1150,52,72,IL
+12,,"Hebrew Theological College  Skokie, IL",Required,-,-,54,72,IL
+13,,"Illinois Institute of Technology  Chicago, IL",Required,1220,1400,77,96,IL
+14,,"Illinois State University  Normal, IL",Required,1010,1190,59,78,IL
+15,,"Illinois Wesleyan University  Bloomington, IL",Required,1120,1325,71,88,IL
+16,,"Judson University  Elgin, IL",Required,950,1180,57,76,IL
+17,,"Lewis University  Romeoville, IL",Required,1040,1200,61,78,IL
+18,,"Lincoln Christian University  Lincoln, IL",Required,940,1180,58,77,IL
+19,,"Lincoln College  Lincoln, IL",,700,810,44,53,IL
+20,,"Loyola University Chicago  Chicago, IL",Required,1120,1310,72,90,IL
+21,,"MacMurray College  Jacksonville, IL",Required,923,1090,51,66,IL
+22,,"McKendree University  Lebanon, IL",Required,960,1270,55,84,IL
+23,,"Methodist College  Peoria, IL",Required,-,-,52,66,IL
+24,,"Millikin University  Decatur, IL",Required,960,1210,60,80,IL
+25,,"Monmouth College  Monmouth, IL",Required,980,1170,58,79,IL
+26,,"North Central College  Naperville, IL",Required,853,1200,62,79,IL
+27,,"North Park University  Chicago, IL",Required,950,1167,56,75,IL
+28,,"Northeastern Illinois University  Chicago, IL",Required,379(MT only),489(MT only),46,64,IL
+29,,"Northern Illinois University  Dekalb, IL",Required,970(MT only),"1,190(MT only)",55,75,IL
+30,,"Northwestern University  Evanston, IL",Required,"1,430(MT only)","1,550(MT only)",31(CM Only),33(CM Only),IL
+31,,"Olivet Nazarene University  Bourbonnais, IL",Required,"1,000(MT only)","1,220(MT only)",57,78,IL
+32,,"Principia College  Elsah, IL",Required,"1,028(MT only)","1,300(MT only)",65,86,IL
+33,,"Quincy University  Quincy, IL",Required,960(MT only),"1,140(MT only)",53,75,IL
+34,,"Rockford University  Rockford, IL",Required,990(MT only),"1,190(MT only)",54,68,IL
+35,,"Roosevelt University  Chicago, IL",Required,"1,010(MT only)","1,180(MT only)",60,77,IL
+36,,"Saint Xavier University  Chicago, IL",Required,950(MT only),"1,130(MT only)",55,72,IL
+37,,"School of the Art Institute of Chicago  Chicago, IL",Required,"1,120(MT only)","1,340(MT only)",64,85,IL
+38,,"Southern Illinois University-Carbondale  Carbondale, IL",Required,"1,000(MT only)","1,210(MT only)",58,79,IL
+39,,"Southern Illinois University-Edwardsville  Edwardsville, IL",Required,"1,010(MT only)","1,220(MT only)",61,81,IL
+40,,"Trinity Christian College  Palos Heights, IL",Required,950(MT only),"1,160(MT only)",56,75,IL
+41,,"Trinity International University-Illinois  Deerfield, IL",Required,960(MT only),"1,150(MT only)",57,78,IL
+42,,"University of Chicago  Chicago, IL",Required,"1,470(MT only)","1,570(MT only)",97,106,IL
+43,,"University of Illinois at Chicago  Chicago, IL",Required,"1,020(MT only)","1,220(MT only)",62,81,IL
+44,,"University of Illinois at Springfield  Springfield, IL",Required,990(MT only),"1,218(MT only)",59,82,IL
+45,,"University of Illinois at Urbana-Champaign  Champaign, IL",Required,"1,200(MT only)","1,460(MT only)",76,99,IL
+46,,"University of St Francis  Joliet, IL",Required,"1,030(MT only)","1,190(MT only)",57,77,IL
+47,,"VanderCook College of Music  Chicago, IL",Required,"1,130(MT only)","1,270(MT only)",64,74,IL
+48,,"Western Illinois University  Macomb, IL",Required,930(MT only),"1,110(MT only)",52,70,IL
+49,,"Wheaton College  Wheaton, IL",Required,"1,210(MT only)","1,420(MT only)",79,96,IL
+0,,"Ancilla College  Donaldson, IN",Required,810,1010,44,62,IN
+1,,"Anderson University  Anderson, IN",Required,1000,1160,56,74,IN
+2,,"Bethel College-Indiana  Mishawaka, IN",Required,970,1170,54,74,IN
+3,,"Butler University  Indianapolis, IN",Required,1170,1330,73,91,IN
+4,,"DePauw University  Greencastle, IN",Required,1120,1340,69,90,IN
+5,,"Earlham College  Richmond, IN",,1160,1380,76,90,IN
+6,,"Franklin College  Franklin, IN",Required,980,1170,52,74,IN
+7,,"Goshen College  Goshen, IN",Required,995,1210,60,81,IN
+8,,"Grace College and Theological Seminary  Winona Lake, IN",Required,1020,1250,59,81,IN
+9,,"Hanover College  Hanover, IN",,1040,1260,63,82,IN
+10,,"Holy Cross College  Notre Dame, IN",Required,1100,1400,68,97,IN
+11,,"Huntington University  Huntington, IN",Required,990,1180,54,76,IN
+12,,"Indiana Institute of Technology  Fort Wayne, IN",Required,753,1168,51,72,IN
+13,,"Indiana State University  Terre Haute, IN",Required,910,1120,47,69,IN
+14,,"Indiana University-Bloomington  Bloomington, IN",Required,1150,1360,72,94,IN
+15,,"Indiana University-East  Richmond, IN",Required,920,1120,50,71,IN
+16,,"Indiana University-Kokomo  Kokomo, IN",Required,950,1130,53,69,IN
+17,,"Indiana University-Northwest  Gary, IN",Required,910,1100,51,70,IN
+18,,"Indiana University-Purdue University-Fort Wayne  Fort Wayne, IN",Required,970,1180,51,75,IN
+19,,"Indiana University-Purdue University-Indianapolis  Indianapolis, IN",Required,1000,1200,55,77,IN
+20,,"Indiana University-South Bend  South Bend, IN",Required,930,1130,50,69,IN
+21,,"Indiana University-Southeast  New Albany, IN",Required,950,1150,49,68,IN
+22,,"Indiana Wesleyan University-Marion  Marion, IN",Required,1010,1220,60,79,IN
+23,,"Marian University  Indianapolis, IN",Required,1020,1200,56,77,IN
+24,,"Oakland City University  Oakland City, IN",Required,912,1110,47,65,IN
+25,,"Purdue University Northwest  Hammond, IN",Required,930,1040,55,74,IN
+26,,"Purdue University-Main Campus  West Lafayette, IN",Required,1180,1410,74,97,IN
+27,,"Rose-Hulman Institute of Technology  Terre Haute, IN",Required,1270,1480,82,101,IN
+28,,"Saint Mary's College  Notre Dame, IN",Required,1050,1260,64,85,IN
+29,,"Saint Mary-of-the-Woods College  Saint Mary of the Woods, IN",Required,920,1110,47,68,IN
+30,,"Taylor University  Upland, IN",Required,1080,1300,64,87,IN
+31,,"Trine University  Angola, IN",Required,1010,1230,63,80,IN
+32,,"University of Evansville  Evansville, IN",,1080,1300,65,84,IN
+33,,"University of Indianapolis  Indianapolis, IN",Required,990,1180,55,75,IN
+34,,"University of Notre Dame  Notre Dame, IN",Required,1400,1550,31(CM Only),33(CM Only),IN
+35,,"University of Saint Francis-Fort Wayne  Fort Wayne, IN",Required,955,1150,51,71,IN
+36,,"University of Southern Indiana  Evansville, IN",Required,980,1180,55,75,IN
+37,,"Valparaiso University  Valparaiso, IN",Required,1070,1270,67,86,IN
+38,,"Wabash College  Crawfordsville, IN",Required,1100,1330,67,83,IN
+0,,"Buena Vista University  Storm Lake, IA",Required,920,1140,55,73,IA
+1,,"Central College  Pella, IA",Required,915,1175,60,79,IA
+2,,"Clarke University  Dubuque, IA",Required,930,1096,52,71,IA
+3,,"Coe College  Cedar Rapids, IA",Required,1078,1300,64,83,IA
+4,,"Cornell College  Mount Vernon, IA",,1080,1320,66,89,IA
+5,,"Dordt College  Sioux Center, IA",Required,1060,1360,64,84,IA
+6,,"Drake University  Des Moines, IA",Required,1140,1360,70,89,IA
+7,,"Emmaus Bible College  Dubuque, IA",Required,950,1290,56,74,IA
+8,,"Faith Baptist Bible College and Theological Seminary  Ankeny, IA",,950,1260,52,75,IA
+9,,"Graceland University-Lamoni  Lamoni, IA",Required,950,1110,51,68,IA
+10,,"Grand View University  Des Moines, IA",Required,920,1110,51,69,IA
+11,,"Grinnell College  Grinnell, IA",Required,1370,1530,90,102,IA
+12,,"Iowa State University  Ames, IA",Required,1092,1334,65,84,IA
+13,,"Iowa Wesleyan University  Mount Pleasant, IA",Required,928,1060,53,69,IA
+14,,"Loras College  Dubuque, IA",Required,998,1183,56,75,IA
+15,,"Luther College  Decorah, IA",Required,1050,1310,67,87,IA
+16,,"Morningside College  Sioux City, IA",Required,-,-,56,74,IA
+17,,"Mount Mercy University  Cedar Rapids, IA",Required,-,-,55,73,IA
+18,,"Northwestern College  Orange City, IA",Required,1050,1250,61,81,IA
+19,,"Saint Ambrose University  Davenport, IA",Required,1020,1190,59,78,IA
+20,,"Simpson College  Indianola, IA",Required,1050,1250,57,75,IA
+21,,"University of Dubuque  Dubuque, IA",Required,850,1100,47,66,IA
+22,,"University of Iowa  Iowa City, IA",Required,1120,1330,67,85,IA
+23,,"University of Northern Iowa  Cedar Falls, IA",Required,980,1241,60,77,IA
+24,,"Upper Iowa University  Fayette, IA",Required,935,1170,51,69,IA
+25,,"Waldorf University  Forest City, IA",Required,920,1110,48,64,IA
+26,,"Wartburg College  Waverly, IA",Required,1020,1160,58,77,IA
+0,,"Baker University  Baldwin City, KS",Required,930,1175,58,76,KS
+1,,"Benedictine College  Atchison, KS",Required,1050,1280,62,85,KS
+2,,"Bethany College  Lindsborg, KS",Required,890,1060,52,68,KS
+3,,"Bethel College-North Newton  North Newton, KS",Recommended,921,1148,51,71,KS
+4,,"Emporia State University  Emporia, KS",Required,900,1178,55,75,KS
+5,,"Friends University  Wichita, KS",Required,920,1090,52,72,KS
+6,,"Haskell Indian Nations University  Lawrence, KS",Required,918,1020,45,57,KS
+7,,"Kansas Wesleyan University  Salina, KS",Required,980,1170,56,76,KS
+8,,"Manhattan Christian College  Manhattan, KS",Required,850,1280,55,77,KS
+9,,"McPherson College  McPherson, KS",Required,990,1170,54,74,KS
+10,,"MidAmerica Nazarene University  Olathe, KS",,910,1140,52,78,KS
+11,,"Newman University  Wichita, KS",Required,1000,1180,58,78,KS
+12,,"Ottawa University-Ottawa  Ottawa, KS",Required,950,1120,48,62,KS
+13,,"Pittsburg State University  Pittsburg, KS",Required,-,-,52,86,KS
+14,,"Southwestern College  Winfield, KS",Required,910,1080,51,68,KS
+15,,"Sterling College  Sterling, KS",,930,1070,48,70,KS
+16,,"Tabor College  Hillsboro, KS",Required,920,1120,53,72,KS
+17,,"University of Kansas  Lawrence, KS",Required,-,-,67,87,KS
+18,,"University of Saint Mary  Leavenworth, KS",Required,975,1170,56,70,KS
+19,,"Wichita State University  Wichita, KS",Required,1050,1290,58,78,KS
+0,,"Alice Lloyd College  Pippa Passes, KY",Required,870,1030,49,65,KY
+1,,"Bellarmine University  Louisville, KY",Required,1060,1270,65,86,KY
+2,,"Berea College  Berea, KY",Required,1030,1213,64,82,KY
+3,,"Brescia University  Owensboro, KY",,1000,1220,55,75,KY
+4,,"Campbellsville University  Campbellsville, KY",Required,940,1153,51,72,KY
+5,,"Centre College  Danville, KY",Required,1190,1420,78,95,KY
+6,,"Eastern Kentucky University  Richmond, KY",Required,1020,1190,58,78,KY
+7,,"Georgetown College  Georgetown, KY",Required,1015,1145,59,79,KY
+8,,"Kentucky Christian University  Grayson, KY",Required,920,1040,48,64,KY
+9,,"Kentucky Mountain Bible College  Jackson, KY",Required,900,1010,47,76,KY
+10,,"Kentucky State University  Frankfort, KY",Required,820,1003,43,57,KY
+11,,"Kentucky Wesleyan College  Owensboro, KY",Required,830,1173,56,77,KY
+12,,"Midway University  Midway, KY",Required,960,1150,54,70,KY
+13,,"Morehead State University  Morehead, KY",Required,-,-,58,77,KY
+14,,"Murray State University  Murray, KY",Required,1028,1213,62,82,KY
+15,,"Northern Kentucky University  Highland Heights, KY",Required,990,1230,59,79,KY
+16,,"Spalding University  Louisville, KY",Required,499(MT only),589(MT only),52,69,KY
+17,,"The Southern Baptist Theological Seminary  Louisville, KY",Required,950(MT only),"1,203(MT only)",55,74,KY
+18,,"Thomas More College  Crestview Hills, KY",Required,960(MT only),"1,120(MT only)",56,73,KY
+19,,"Transylvania University  Lexington, KY",Recommended,"1,100(MT only)","1,310(MT only)",71,90,KY
+20,,"Union College  Barbourville, KY",Required,936(MT only),"1,066(MT only)",51,66,KY
+21,,"University of Kentucky  Lexington, KY",Required,"1,080(MT only)","1,300(MT only)",68,88,KY
+22,,"University of Louisville  Louisville, KY",Required,"1,070(MT only)","1,290(MT only)",65,88,KY
+23,,"University of the Cumberlands  Williamsburg, KY",Required,995(MT only),"1,180(MT only)",57,77,KY
+24,,"Western Kentucky University  Bowling Green, KY",Required,980(MT only),"1,190(MT only)",58,81,KY
+0,,"Centenary College of Louisiana  Shreveport, LA",Required,1050,1220,61,84,LA
+1,,"Franciscan Missionaries of Our Lady University  Baton Rouge, LA",Required,-,-,58,72,LA
+2,,"Grambling State University  Grambling, LA",,830,1018,47,58,LA
+3,,"Louisiana College  Pineville, LA",Required,940,1170,55,70,LA
+4,,"Louisiana State University and Agricultural & Mechanical College  Baton Rouge, LA",Required,1070,1290,68,87,LA
+5,,"Louisiana State University-Alexandria  Alexandria, LA",Required,-,-,52,67,LA
+6,,"Louisiana State University-Shreveport  Shreveport, LA",Required,1020,1140,59,75,LA
+7,,"Louisiana Tech University  Ruston, LA",Required,870,970,65,82,LA
+8,,"Loyola University New Orleans  New Orleans, LA",Required,1060,1240,65,85,LA
+9,,"McNeese State University  Lake Charles, LA",Required,970,1140,58,76,LA
+10,,"Nicholls State University  Thibodaux, LA",Required,870,1090,58,74,LA
+11,,"Northwestern State University of Louisiana  Natchitoches, LA",Required,920,1160,55,72,LA
+12,,"Southeastern Louisiana University  Hammond, LA",Required,-,-,55,72,LA
+13,,"Southern University and A & M College  Baton Rouge, LA",Required,930,1090,49,62,LA
+14,,"Southern University at New Orleans  New Orleans, LA",Required,-,-,46,57,LA
+15,,"Tulane University of Louisiana  New Orleans, LA",Required,1350,1490,89,100,LA
+16,,"University of Louisiana at Lafayette  Lafayette, LA",Required,1030,1250,62,84,LA
+17,,"University of Louisiana at Monroe  Monroe, LA",Required,810,1040,59,75,LA
+18,,"University of New Orleans  New Orleans, LA",Required,1050,1260,60,77,LA
+19,,"Xavier University of Louisiana  New Orleans, LA",Required,1016,1189,57,77,LA
+0,,"Colby College  Waterville, ME",Required,1350,1510,90,101,ME
+1,,"Husson University  Bangor, ME",Required,930,1140,49,67,ME
+2,,"Maine College of Health Professions  Lewiston, ME",Required,810,1040,-,-,ME
+3,,"Maine Maritime Academy  Castine, ME",Required,1000,1180,56,76,ME
+4,,"Saint Joseph's College of Maine  Standish, ME",Recommended,970,1170,51,65,ME
+5,,"University of Maine  Orono, ME",Required,1050,1250,63,80,ME
+6,,"University of Maine at Fort Kent  Fort Kent, ME",Required,900,1110,47,64,ME
+7,,"University of New England  Biddeford, ME",Required,1050,1240,57,77,ME
+8,,"University of Southern Maine  Portland, ME",Required,940,1150,55,75,ME
+0,,"Capitol Technology University  Laurel, MD",Required,1000,1150,51,63,MD
+1,,"Coppin State University  Baltimore, MD",Required,880,1030,49,60,MD
+2,,"Frostburg State University  Frostburg, MD",Required,930,1110,48,68,MD
+3,,"Johns Hopkins University  Baltimore, MD",Required,1450,1560,98,106,MD
+4,,"Maryland Institute College of Art  Baltimore, MD",Required,1030,1290,63,87,MD
+5,,"McDaniel College  Westminster, MD",Required,1050,1230,19(CM Only),25(CM Only),MD
+6,,"Morgan State University  Baltimore, MD",Required,920,1080,46,59,MD
+7,,"Mount St. Mary's University  Emmitsburg, MD",Required,1000,1210,51,74,MD
+8,,"Notre Dame of Maryland University  Baltimore, MD",,930,1140,20(CM Only),24(CM Only),MD
+9,,"St Mary's College of Maryland  St. Mary's City, MD",Required,1060,1290,65,83,MD
+10,,"St. John's College  Annapolis, MD",,1200,1460,70,98,MD
+11,,"Stevenson University  Stevenson, MD",Required,1030,1200,53,72,MD
+12,,"Towson University  Towson, MD",Required,1060,1200,58,75,MD
+13,,"United States Naval Academy  Annapolis, MD",Required,1150,1370,77,98,MD
+14,,"University of Baltimore  Baltimore, MD",Required,910,1115,60,68,MD
+15,,"University of Maryland Eastern Shore  Princess Anne, MD",Required,870,1050,43,58,MD
+16,,"University of Maryland-Baltimore County  Baltimore, MD",Required,1190,1360,70,87,MD
+17,,"University of Maryland-College Park  College Park, MD",Required,1290,1470,85,101,MD
+18,,"Washington Adventist University  Takoma Park, MD",Required,860,1070,42,58,MD
+0,,"American International College  Springfield, MA",,920,1100,14(CM Only),20(CM Only),MA
+1,,"Amherst College  Amherst, MA",Required,1330,1530,91,103,MA
+2,,"Babson College  Wellesley, MA",Required,1270,1450,83,99,MA
+3,,"Becker College  Worcester, MA",Required,980,1180,57,78,MA
+4,,"Bentley University  Waltham, MA",Required,1240,1410,81,97,MA
+5,,"Boston Baptist College  Boston, MA",Required,885,1065,44,68,MA
+6,,"Boston College  Chestnut Hill, MA",Required,1320,1490,91,102,MA
+7,,"Boston University  Boston, MA",Required,1330,1500,88,101,MA
+8,,"Brandeis University  Waltham, MA",Required,1280,1500,87,101,MA
+9,,"Bridgewater State University  Bridgewater, MA",Required,990,1150,17(CM Only),23(CM Only),MA
+10,,"College of Our Lady of the Elms  Chicopee, MA",Required,970,1170,16(CM Only),21(CM Only),MA
+11,,"Curry College  Milton, MA",Required,940,1110,48,66,MA
+12,,"Dean College  Franklin, MA",,910,1110,16(CM Only),20(CM Only),MA
+13,,"Eastern Nazarene College  Quincy, MA",Required,920,1190,48,71,MA
+14,,"Emerson College  Boston, MA",,1200,1390,77,94,MA
+15,,"Emmanuel College  Boston, MA",,1100,1280,22(CM Only),25(CM Only),MA
+16,,"Fitchburg State University  Fitchburg, MA",Required,1000,1150,57,74,MA
+17,,"Framingham State University  Framingham, MA",Required,960,1130,16(CM Only),21(CM Only),MA
+18,,"Franklin W Olin College of Engineering  Needham, MA",Required,1460,1550,101,105,MA
+19,,"Gordon College  Wenham, MA",Required,1050,1285,64,86,MA
+20,,"Harvard University  Cambridge, MA",Required,1460,1580,98,106,MA
+21,,"Lasell College  Newton, MA",Required,980,1170,14(CM Only),23(CM Only),MA
+22,,"Lesley University  Cambridge, MA",Required,938,1293,62,84,MA
+23,,"Massachusetts College of Liberal Arts  North Adams, MA",Required,990,1230,17(CM Only),24(CM Only),MA
+24,,"Massachusetts Institute of Technology  Cambridge, MA",Required,1500,1570,102,108,MA
+25,,"Massachusetts Maritime Academy  Buzzards Bay, MA",Required,1050,1200,18(CM Only),24(CM Only),MA
+26,,"MCPHS University  Boston, MA",Required,1030,1230,63,83,MA
+27,,"Mount Holyoke College  South Hadley, MA",,1290,1500,86,98,MA
+28,,"Northeastern University  Boston, MA",Required,1360,1540,94,103,MA
+29,,"Salem State University  Salem, MA",,980,1140,18(CM Only),24(CM Only),MA
+30,,"Simmons University  Boston, MA",Required,1130,1300,70,90,MA
+31,,"Springfield College  Springfield, MA",Required,1050,1240,69,82,MA
+32,,"Suffolk University  Boston, MA",Required,1030,1220,19(CM Only),24(CM Only),MA
+33,,"Tufts University  Medford, MA",Required,1380,1530,29(CM Only),32(CM Only),MA
+34,,"University of Massachusetts-Amherst  Amherst, MA",Required,1200,1390,24(CM Only),29(CM Only),MA
+35,,"University of Massachusetts-Dartmouth  North Dartmouth, MA",Required,990,1190,59,83,MA
+36,,"University of Massachusetts-Lowell  Lowell, MA",Required,1150,1320,71,87,MA
+37,,"Wellesley College  Wellesley, MA",Required,1330,1520,89,102,MA
+38,,"Wentworth Institute of Technology  Boston, MA",Required,1080,1280,66,79,MA
+39,,"Western New England University  Springfield, MA",,1060,1250,20(CM Only),25(CM Only),MA
+40,,"Westfield State University  Westfield, MA",Required,1000,1165,55,71,MA
+41,,"Wheaton College  Norton, MA",,1180,1350,76,94,MA
+42,,"Williams College  Williamstown, MA",Required,1410,1550,95,105,MA
+0,,"Adrian College  Adrian, MI",Required,940,1156,55,75,MI
+1,,"Albion College  Albion, MI",Required,1010,1240,58,78,MI
+2,,"Alma College  Alma, MI",Required,1040,1220,58,79,MI
+3,,"Andrews University  Berrien Springs, MI",Required,1040,1300,61,82,MI
+4,,"Aquinas College  Grand Rapids, MI",Required,1010,1230,62,79,MI
+5,,"Calvin College  Grand Rapids, MI",Required,1150,1370,69,92,MI
+6,,"Central Michigan University  Mount Pleasant, MI",Required,1000,1200,57,79,MI
+7,,"Cleary University  Howell, MI",Required,930,1150,52,58,MI
+8,,"College for Creative Studies  Detroit, MI",Required,960,1190,60,81,MI
+9,,"Concordia University-Ann Arbor  Ann Arbor, MI",Required,-,-,54,71,MI
+10,,"Cornerstone University  Grand Rapids, MI",Required,950,1180,55,77,MI
+11,,"Eastern Michigan University  Ypsilanti, MI",Required,890,1170,44,70,MI
+12,,"Ferris State University  Big Rapids, MI",Required,940,1170,55,77,MI
+13,,"Finlandia University  Hancock, MI",Required,890,1080,48,66,MI
+14,,"Grand Valley State University  Allendale, MI",Required,1050,1240,62,80,MI
+15,,"Hillsdale College  Hillsdale, MI",Required,1275,1465,85,98,MI
+16,,"Hope College  Holland, MI",Required,1110,1330,68,88,MI
+17,,"Kettering University  Flint, MI",Required,1190,1370,75,90,MI
+18,,"Kuyper College  Grand Rapids, MI",Required,850,1050,50,66,MI
+19,,"Lake Superior State University  Sault Ste Marie, MI",Required,970,1160,54,74,MI
+20,,"Lawrence Technological University  Southfield, MI",Required,1030,1280,69,86,MI
+21,,"Madonna University  Livonia, MI",Required,960,1170,54,75,MI
+22,,"Michigan State University  East Lansing, MI",Required,1110,1310,69,87,MI
+23,,"Michigan Technological University  Houghton, MI",Required,1170,1360,72,90,MI
+24,,"Northern Michigan University  Marquette, MI",Required,970,1180,57,78,MI
+25,,"Northwood University  Midland, MI",Required,990,1180,54,72,MI
+26,,"Oakland University  Rochester Hills, MI",Required,1010,1240,61,84,MI
+27,,"Olivet College  Olivet, MI",,850,1070,46,66,MI
+28,,"Rochester College  Rochester Hills, MI",Required,870,1100,48,71,MI
+29,,"Saginaw Valley State University  University Center, MI",Required,990,1200,55,76,MI
+30,,"Spring Arbor University  Spring Arbor, MI",Required,1025,1230,58,79,MI
+31,,"University of Detroit Mercy  Detroit, MI",Required,1050,1250,61,80,MI
+32,,"University of Michigan-Ann Arbor  Ann Arbor, MI",Required,1330,1510,89,103,MI
+33,,"University of Michigan-Dearborn  Dearborn, MI",Required,1070,1290,67,89,MI
+34,,"University of Michigan-Flint  Flint, MI",Required,980,1200,55,78,MI
+35,,"Wayne State University  Detroit, MI",Required,1010,1210,60,80,MI
+36,,"Western Michigan University  Kalamazoo, MI",Required,990,1190,58,77,MI
+0,,"Augsburg University  Minneapolis, MN",Required,1173,1325,53,71,MN
+1,,"Bemidji State University  Bemidji, MN",Required,-,-,54,72,MN
+2,,"Bethany Lutheran College  Mankato, MN",Required,1050,1190,54,73,MN
+3,,"Bethel University  Saint Paul, MN",Required,1033,1286,64,83,MN
+4,,"Bethlehem College & Seminary  Minneapolis, MN",Required,1180,1350,64,76,MN
+5,,"Carleton College  Northfield, MN",Required,1350,1530,29(CM Only),32(CM Only),MN
+6,,"College of Saint Benedict  Saint Joseph, MN",Required,1000,1200,64,82,MN
+7,,"Concordia College at Moorhead  Moorhead, MN",Required,1080,1368,62,81,MN
+8,,"Crown College  Saint Bonifacius, MN",Required,900,1160,51,72,MN
+9,,"Hamline University  Saint Paul, MN",Required,1060,1280,58,80,MN
+10,,"Macalester College  Saint Paul, MN",Required,1310,1500,85,99,MN
+11,,"Martin Luther College  New Ulm, MN",Required,1080,1250,62,81,MN
+12,,"Minneapolis College of Art and Design  Minneapolis, MN",Required,1030,1220,55,77,MN
+13,,"Minnesota State University Moorhead  Moorhead, MN",Required,920,1190,58,74,MN
+14,,"Minnesota State University-Mankato  Mankato, MN",Required,-,-,55,72,MN
+15,,"North Central University  Minneapolis, MN",Required,1033,1208,53,73,MN
+16,,"Oak Hills Christian College  Bemidji, MN",Required,790,1020,47,68,MN
+17,,"Saint Cloud State University  Saint Cloud, MN",Required,960,1235,51,72,MN
+18,,"Saint Johns University  Collegeville, MN",Required,1010,1280,65,83,MN
+19,,"Saint Mary's University of Minnesota  Winona, MN",Required,1030,1240,59,78,MN
+20,,"Southwest Minnesota State University  Marshall, MN",Required,865,1030,49,69,MN
+21,,"St Catherine University  Saint Paul, MN",Required,1119,1263,54,73,MN
+22,,"St Olaf College  Northfield, MN",Required,1190,1410,75,96,MN
+23,,"The College of Saint Scholastica  Duluth, MN",Required,1050,1270,57,76,MN
+24,,"University of Minnesota-Crookston  Crookston, MN",Required,998,1176,52,70,MN
+25,,"University of Minnesota-Duluth  Duluth, MN",Required,1118,1343,62,78,MN
+26,,"University of Minnesota-Morris  Morris, MN",Required,1080,1350,63,81,MN
+27,,"University of Minnesota-Rochester  Rochester, MN",Required,1028,1145,64,77,MN
+28,,"University of Minnesota-Twin Cities  Minneapolis, MN",Required,1270,1480,76,94,MN
+29,,"University of Northwestern-St Paul  Saint Paul, MN",Required,1053,1248,62,82,MN
+30,,"University of St Thomas  Saint Paul, MN",Required,1130,1380,70,86,MN
+31,,"Winona State University  Winona, MN",Required,1000,1190,58,73,MN
+0,,"Alcorn State University  Alcorn State, MS",Required,820,1140,48,64,MS
+1,,"Blue Mountain College  Blue Mountain, MS",Required,890,1030,56,74,MS
+2,,"Delta State University  Cleveland, MS",Required,950,1190,53,73,MS
+3,,"Jackson State University  Jackson, MS",Required,850,1068,49,67,MS
+4,,"Millsaps College  Jackson, MS",Required,1080,1260,65,85,MS
+5,,"Mississippi College  Clinton, MS",Required,1030,1236,63,87,MS
+6,,"Mississippi State University  Mississippi State, MS",Required,1070,1330,64,88,MS
+7,,"Mississippi University for Women  Columbus, MS",Required,1080,1110,52,72,MS
+8,,"Mississippi Valley State University  Itta Bena, MS",Required,-,-,43,55,MS
+9,,"Tougaloo College  Tougaloo, MS",Required,790,1100,47,69,MS
+10,,"University of Mississippi  University, MS",Required,1050,1270,63,88,MS
+11,,"University of Southern Mississippi  Hattiesburg, MS",Required,-,-,55,75,MS
+12,,"William Carey University  Hattiesburg, MS",Required,930,1150,61,85,MS
+0,,"Avila University  Kansas City, MO",Required,990,1110,54,70,MO
+1,,"Calvary University  Kansas City, MO",Required,890,1150,57,80,MO
+2,,"Central Methodist University-College of Liberal Arts and Sciences  Fayette, MO",Required,950,1130,57,72,MO
+3,,"College of the Ozarks  Point Lookout, MO",Required,1193,1300,62,79,MO
+4,,"Conception Seminary College  Conception, MO",Required,-,-,62,74,MO
+5,,"Cottey College  Nevada, MO",Required,970,1110,54,73,MO
+6,,"Culver-Stockton College  Canton, MO",Required,950,1140,51,69,MO
+7,,"Drury University  Springfield, MO",Required,1070,1280,66,87,MO
+8,,"Fontbonne University  Saint Louis, MO",Required,930,1150,52,72,MO
+9,,"Lindenwood University  Saint Charles, MO",Required,1000,1160,59,75,MO
+10,,"Lutheran School of Nursing  Saint Louis, MO",Required,-,-,64,64,MO
+11,,"Maryville University of Saint Louis  Saint Louis, MO",Required,1020,1240,58,77,MO
+12,,"Midwestern Baptist Theological Seminary  Kansas City, MO",Required,960,1065,55,75,MO
+13,,"Missouri Baptist University  Saint Louis, MO",Required,930,1110,54,70,MO
+14,,"Missouri Southern State University  Joplin, MO",Required,-,-,52,71,MO
+15,,"Missouri State University-Springfield  Springfield, MO",Required,1018,1220,62,79,MO
+16,,"Missouri University of Science and Technology  Rolla, MO",Required,1188,1380,75,94,MO
+17,,"Missouri Valley College  Marshall, MO",Recommended,890,1090,47,64,MO
+18,,"Northwest Missouri State University  Maryville, MO",Required,976,1193,55,72,MO
+19,,"Ozark Christian College  Joplin, MO",Required,1020,1200,57,80,MO
+20,,"Rockhurst University  Kansas City, MO",Required,1110,1255,64,82,MO
+21,,"Saint Louis Christian College  Florissant, MO",Required,860,1200,56,65,MO
+22,,"Saint Louis University  Saint Louis, MO",Required,1180,1370,74,94,MO
+23,,"Southeast Missouri Hospital College of Nursing and Health Sciences  Cape Girardeau, MO",Required,-,-,57,66,MO
+24,,"Southeast Missouri State University  Cape Girardeau, MO",Required,1030,1240,58,76,MO
+25,,"Southwest Baptist University  Bolivar, MO",Required,990,1213,53,77,MO
+26,,"St. Louis College of Pharmacy  Saint Louis, MO",Required,1108,1313,72,87,MO
+27,,"Stephens College  Columbia, MO",Required,970,1210,56,76,MO
+28,,"Truman State University  Kirksville, MO",Required,1080,1358,71,90,MO
+29,,"University of Central Missouri  Warrensburg, MO",Required,-,-,55,74,MO
+30,,"University of Missouri-Columbia  Columbia, MO",Required,1090,1290,68,87,MO
+31,,"University of Missouri-Kansas City  Kansas City, MO",Required,1030,1340,60,84,MO
+32,,"University of Missouri-St Louis  Saint Louis, MO",Required,1020,1230,61,80,MO
+33,,"Washington University in St Louis  Saint Louis, MO",Required,1470,1570,96,105,MO
+34,,"Webster University  Saint Louis, MO",Required,1008,1243,61,82,MO
+35,,"Westminster College  Fulton, MO",Required,1030,1190,58,75,MO
+36,,"William Jewell College  Liberty, MO",Required,1030,1270,66,85,MO
+37,,"William Woods University  Fulton, MO",Required,996,1225,58,76,MO
+0,,"Carroll College  Helena, MT",Required,1070,1270,64,82,MT
+1,,"Montana State University  Bozeman, MT",Required,1090,1320,61,82,MT
+2,,"Montana Tech of the University of Montana  Butte, MT",Required,1110,1230,65,79,MT
+3,,"Rocky Mountain College  Billings, MT",Required,990,1175,58,74,MT
+4,,"The University of Montana  Missoula, MT",Required,1040,1260,57,78,MT
+5,,"The University of Montana-Western  Dillon, MT",Required,940,1120,48,63,MT
+0,,"Bryan College of Health Sciences  Lincoln, NE",Required,-,-,57,70,NE
+1,,"Clarkson College  Omaha, NE",Required,-,-,53,63,NE
+2,,"Concordia University-Nebraska  Seward, NE",Required,890,1100,59,79,NE
+3,,"Creighton University  Omaha, NE",Required,1150,1350,72,91,NE
+4,,"Hastings College  Hastings, NE",Required,940,1130,55,74,NE
+5,,"Midland University  Fremont, NE",Required,920,1105,51,70,NE
+6,,"Nebraska Christian College of Hope International University  Papillion, NE",Required,760,1060,44,65,NE
+7,,"Nebraska Methodist College of Nursing & Allied Health  Omaha, NE",Required,-,-,60,72,NE
+8,,"Nebraska Wesleyan University  Lincoln, NE",Required,1010,1270,64,85,NE
+9,,"Union College  Lincoln, NE",Required,980,1130,52,73,NE
+10,,"University of Nebraska at Kearney  Kearney, NE",Required,935,1120,56,77,NE
+11,,"University of Nebraska at Omaha  Omaha, NE",Required,-,-,54,77,NE
+12,,"University of Nebraska-Lincoln  Lincoln, NE",Required,1130,1360,64,87,NE
+13,,"York College  York, NE",Required,950,1160,52,66,NE
+0,,"Sierra Nevada College  Incline Village, NV",Required,1020,1190,52,68,NV
+1,,"University of Nevada-Las Vegas  Las Vegas, NV",Required,1030,1240,53,72,NV
+2,,"University of Nevada-Reno  Reno, NV",Required,1070,1280,60,78,NV
+0,,"Dartmouth College  Hanover, NH",Required,1420,1560,93,106,NH
+1,,"Franklin Pierce University  Rindge, NH",,970,1130,48,73,NH
+2,,"Keene State College  Keene, NH",,960,1140,52,71,NH
+3,,"Saint Anselm College  Manchester, NH",,1120,1310,70,86,NH
+4,,"Thomas More College of Liberal Arts  Merrimack, NH",,1130,1230,93,96,NH
+5,,"University of New Hampshire at Manchester  Manchester, NH",Required,1030,1190,-,-,NH
+6,,"University of New Hampshire-Main Campus  Durham, NH",Required,1090,1270,66,84,NH
+0,,"Bloomfield College  Bloomfield, NJ",,860,1060,47,57,NJ
+1,,"Caldwell University  Caldwell, NJ",Required,960,1148,49,67,NJ
+2,,"Centenary University  Hackettstown, NJ",Required,870,1090,48,66,NJ
+3,,"Felician University  Lodi, NJ",Required,920,1080,46,64,NJ
+4,,"Georgian Court University  Lakewood, NJ",Required,935,1130,49,73,NJ
+5,,"Kean University  Union, NJ",Required,890,1080,15(CM Only),20(CM Only),NJ
+6,,"Monmouth University  West Long Branch, NJ",Required,1040,1250,17(CM Only),23(CM Only),NJ
+7,,"Montclair State University  Montclair, NJ",,990,1170,-,-,NJ
+8,,"New Jersey City University  Jersey City, NJ",Required,850,1060,-,-,NJ
+9,,"New Jersey Institute of Technology  Newark, NJ",Required,1190,1380,73,93,NJ
+10,,"Princeton University  Princeton, NJ",Required,1440,1570,96,106,NJ
+11,,"Ramapo College of New Jersey  Mahwah, NJ",Required,1050,1240,61,79,NJ
+12,,"Rider University  Lawrenceville, NJ",Required,1000,1190,58,74,NJ
+13,,"Rowan University  Glassboro, NJ",Required,1008,1223,61,81,NJ
+14,,"Rutgers University-Camden  Camden, NJ",Required,1000,1180,50,71,NJ
+15,,"Rutgers University-New Brunswick  New Brunswick, NJ",Required,1190,1410,74,97,NJ
+16,,"Rutgers University-Newark  Newark, NJ",Required,1020,1190,55,73,NJ
+17,,"Saint Peter's University  Jersey City, NJ",,940,1120,-,-,NJ
+18,,"Seton Hall University  South Orange, NJ",Required,1150,1310,69,84,NJ
+19,,"Stevens Institute of Technology  Hoboken, NJ",,1330,1480,88,102,NJ
+20,,"Stockton University  Galloway, NJ",Required,1000,1190,52,74,NJ
+21,,"The College of New Jersey  Ewing, NJ",Required,1160,1350,75,90,NJ
+22,,"William Paterson University of New Jersey  Wayne, NJ",Required,890,1090,47,69,NJ
+0,,"Eastern New Mexico University-Main Campus  Portales, NM",Required,860,1070,48,67,NM
+1,,"New Mexico Institute of Mining and Technology  Socorro, NM",Required,1210,1400,69,86,NM
+2,,"New Mexico Military Institute  Roswell, NM",Required,830,1140,47,69,NM
+3,,"New Mexico State University-Main Campus  Las Cruces, NM",Required,940,1160,50,69,NM
+4,,"St. John's College  Santa Fe, NM",,1200,1420,68,88,NM
+5,,"University of New Mexico-Main Campus  Albuquerque, NM",Required,1030,1270,55,75,NM
+0,,"Adelphi University  Garden City, NY",Required,1080,1270,63,81,NY
+1,,"Albany College of Pharmacy and Health Sciences  Albany, NY",Required,1130,1310,22(CM Only),26(CM Only),NY
+2,,"Alfred University  Alfred, NY",Required,970,1200,56,80,NY
+3,,"Barnard College  New York, NY",Required,1330,1500,89,100,NY
+4,,"Binghamton University  Vestal, NY",Required,1310,1440,26(CM Only),30(CM Only),NY
+5,,"Canisius College  Buffalo, NY",Required,1050,1270,19(CM Only),25(CM Only),NY
+6,,"Clarkson University  Potsdam, NY",Required,1160,1350,71,87,NY
+7,,"Colgate University  Hamilton, NY",Required,1320,1510,91,101,NY
+8,,"College of Mount Saint Vincent  Bronx, NY",Required,930,1100,50,69,NY
+9,,"Columbia University in the City of New York  New York, NY",Required,1450,1560,97,106,NY
+10,,"Concordia College-New York  Bronxville, NY",,950,1120,57,72,NY
+11,,"Cooper Union for the Advancement of Science and Art  New York, NY",Required,1283,1510,91,104,NY
+12,,"Cornell University  Ithaca, NY",Required,1390,1540,95,104,NY
+13,,"CUNY Bernard M Baruch College  New York, NY",Required,1220,1390,-,-,NY
+14,,"CUNY Brooklyn College  Brooklyn, NY",Required,1060,1240,-,-,NY
+15,,"CUNY City College  New York, NY",Required,1040,1270,-,-,NY
+16,,"CUNY Hunter College  New York, NY",Required,1150,1330,-,-,NY
+17,,"CUNY John Jay College of Criminal Justice  New York, NY",Required,980,1140,-,-,NY
+18,,"CUNY Lehman College  Bronx, NY",Required,980,1110,-,-,NY
+19,,"CUNY Queens College  Queens, NY",Required,1060,1220,-,-,NY
+20,,"CUNY York College  Jamaica, NY",Required,890,1050,-,-,NY
+21,,"D'Youville College  Buffalo, NY",Required,1030,1200,40,65,NY
+22,,"Dominican College of Blauvelt  Orangeburg, NY",,940,1120,15(CM Only),22(CM Only),NY
+23,,"Farmingdale State College  Farmingdale, NY",Required,1010,1160,18(CM Only),22(CM Only),NY
+24,,"Finger Lakes Health College of Nursing  Geneva, NY",,940,990,-,-,NY
+25,,"Fordham University  Bronx, NY",Required,1250,1430,82,97,NY
+26,,"Hamilton College  Clinton, NY",Required,1350,1510,29(CM Only),32(CM Only),NY
+27,,"Hartwick College  Oneonta, NY",,1070,1190,19(CM Only),24(CM Only),NY
+28,,"Hobart William Smith Colleges  Geneva, NY",,1150,1340,73,91,NY
+29,,"Hofstra University  Hempstead, NY",,1150,1330,72,89,NY
+30,,"Iona College  New Rochelle, NY",Required,990,1170,18(CM Only),24(CM Only),NY
+31,,"Jewish Theological Seminary of America  New York, NY",Required,1340,1520,90,103,NY
+32,,"Le Moyne College  Syracuse, NY",,1080,1270,68,84,NY
+33,,"LIM College  New York, NY",,970,1150,53,68,NY
+34,,"LIU Post  Brookville, NY",Required,1060,1260,62,80,NY
+35,,"Manhattan College  Riverdale, NY",Required,1070,1260,65,82,NY
+36,,"Marion S Whelan School of Nursing of Geneva General Hospital  Geneva, NY",,840,900,-,-,NY
+37,,"Marymount Manhattan College  New York, NY",,1030,1220,60,83,NY
+38,,"Medaille College  Buffalo, NY",Required,850,1100,48,68,NY
+39,,"Molloy College  Rockville Centre, NY",Required,1060,1230,20(CM Only),24(CM Only),NY
+40,,"Morrisville State College  Morrisville, NY",Required,850,1040,47,62,NY
+41,,"Mount Saint Mary College  Newburgh, NY",Required,1020,1170,55,71,NY
+42,,"New York Institute of Technology  Old Westbury, NY",Required,1050,1270,64,84,NY
+43,,"New York School of Interior Design  New York, NY",Required,1050,1300,56,71,NY
+44,,"New York University  New York, NY",Required,1310,1510,27(CM Only),32(CM Only),NY
+45,,"Niagara University  Niagara University, NY",Required,1020,1200,61,77,NY
+46,,"Nyack College  Nyack, NY",Required,868,1108,15(CM Only),21(CM Only),NY
+47,,"Pace University-New York  New York, NY",Required,1060,1220,20(CM Only),25(CM Only),NY
+48,,"Pratt Institute-Main  Brooklyn, NY",Required,1050,1310,72,92,NY
+49,,"Rensselaer Polytechnic Institute  Troy, NY",Required,1330,1500,27(CM Only),31(CM Only),NY
+50,,"Roberts Wesleyan College  Rochester, NY",Required,1010,1230,55,80,NY
+51,,"Rochester Institute of Technology  Rochester, NY",Required,1200,1400,77,95,NY
+52,,"Saint John Fisher College  Rochester, NY",Required,1080,1250,63,79,NY
+53,,"Sarah Lawrence College  Bronxville, NY",,1240,1420,81,96,NY
+54,,"School of Visual Arts  New York, NY",Required,1060,1323,21(CM Only),27(CM Only),NY
+55,,"Skidmore College  Saratoga Springs, NY",,1223,1400,79,94,NY
+56,,"St Bonaventure University  Saint Bonaventure, NY",Required,1040,1240,62,80,NY
+57,,"St John's University-New York  Queens, NY",,1070,1270,66,86,NY
+58,,"St Lawrence University  Canton, NY",,1190,1355,25(CM Only),28(CM Only),NY
+59,,"St. Joseph's College-Long Island  Patchogue, NY",Required,1020,1200,56,76,NY
+60,,"St. Joseph's College-New York  Brooklyn, NY",Required,1020,1190,56,82,NY
+61,,"St. Thomas Aquinas College  Sparkill, NY",Required,910,1120,16(CM Only),23(CM Only),NY
+62,,"State University of New York at New Paltz  New Paltz, NY",Required,1090,1270,69,86,NY
+63,,"Stony Brook University  Stony Brook, NY",Required,1230,1420,76,95,NY
+64,,"SUNY at Albany  Albany, NY",Required,1100,1260,20(CM Only),25(CM Only),NY
+65,,"SUNY at Fredonia  Fredonia, NY",Required,970,1170,19(CM Only),25(CM Only),NY
+66,,"SUNY at Purchase College  Purchase, NY",,1060,1270,62,86,NY
+67,,"SUNY Buffalo State  Buffalo, NY",Required,860,1040,-,-,NY
+68,,"SUNY College at Brockport  Brockport, NY",Required,1020,1180,56,74,NY
+69,,"SUNY College at Geneseo  Geneseo, NY",Required,1120,1300,22(CM Only),26(CM Only),NY
+70,,"SUNY College at Old Westbury  Old Westbury, NY",Required,950,1053,-,-,NY
+71,,"SUNY College at Oswego  Oswego, NY",Required,1070,1240,19(CM Only),24(CM Only),NY
+72,,"SUNY College at Plattsburgh  Plattsburgh, NY",Required,1050,1230,60,74,NY
+73,,"SUNY College of Agriculture and Technology at Cobleskill  Cobleskill, NY",Required,860,1090,-,-,NY
+74,,"SUNY College of Environmental Science and Forestry  Syracuse, NY",Required,1120,1310,67,85,NY
+75,,"SUNY College of Technology at Alfred  Alfred, NY",Required,950,1170,56,75,NY
+76,,"SUNY College of Technology at Canton  Canton, NY",Required,900,1080,48,64,NY
+77,,"SUNY College of Technology at Delhi  Delhi, NY",Recommended,920,1090,48,68,NY
+78,,"SUNY Cortland  Cortland, NY",,1060,1200,62,74,NY
+79,,"SUNY Maritime College  Throggs Neck, NY",Required,1075,1260,20(CM Only),25(CM Only),NY
+80,,"SUNY Oneonta  Oneonta, NY",Required,910,1180,60,76,NY
+81,,"SUNY Polytechnic Institute  Utica, NY",Required,1000,1350,68,88,NY
+82,,"Syracuse University  Syracuse, NY",Required,1180,1370,75,92,NY
+83,,"The College of New Rochelle  New Rochelle, NY",Required,890,1070,46,59,NY
+84,,"The King's College  New York, NY",Required,1120,1310,72,88,NY
+85,,"The New School  New York, NY",,1150,1360,70,90,NY
+86,,"United States Merchant Marine Academy  Kings Point, NY",Required,1190,1330,77,90,NY
+87,,"United States Military Academy  West Point, NY",Required,1140,1350,81,99,NY
+88,,"University at Buffalo  Buffalo, NY",Required,1160,1330,71,88,NY
+89,,"University of Rochester  Rochester, NY",,1320,1500,88,103,NY
+90,,"Vassar College  Poughkeepsie, NY",Required,1370,1510,92,100,NY
+91,,"Webb Institute  Glen Cove, NY",Required,1400,1550,98,103,NY
+92,,"Wells College  Aurora, NY",Recommended,1010,1230,63,84,NY
+93,,"Yeshiva University  New York, NY",Required,1140,1400,67,92,NY
+0,,"Appalachian State University  Boone, NC",Required,1100,1270,67,82,NC
+1,,"Barton College  Wilson, NC",Required,920,1120,50,67,NC
+2,,"Belmont Abbey College  Belmont, NC",,950,1180,57,73,NC
+3,,"Bennett College  Greensboro, NC",Required,800,1000,41,58,NC
+4,,"Cabarrus College of Health Sciences  Concord, NC",Required,990,1140,56,69,NC
+5,,"Campbell University  Buies Creek, NC",Required,1030,1210,55,74,NC
+6,,"Carolinas College of Health Sciences  Charlotte, NC",Recommended,933,1090,-,-,NC
+7,,"Catawba College  Salisbury, NC",Required,910,1140,53,72,NC
+8,,"Chowan University  Murfreesboro, NC",Required,810,1000,40,51,NC
+9,,"Davidson College  Davidson, NC",Required,1290,1450,27(CM Only),31(CM Only),NC
+10,,"Duke University  Durham, NC",Required,1450,1570,96,105,NC
+11,,"East Carolina University  Greenville, NC",Required,1040,1190,58,73,NC
+12,,"Elizabeth City State University  Elizabeth City, NC",Required,890,1040,48,58,NC
+13,,"Elon University  Elon, NC",Required,1150,1330,73,90,NC
+14,,"Fayetteville State University  Fayetteville, NC",Required,890,1030,51,64,NC
+15,,"Gardner-Webb University  Boiling Springs, NC",Required,970,1180,51,72,NC
+16,,"Greensboro College  Greensboro, NC",Required,910,1140,47,67,NC
+17,,"High Point University  High Point, NC",,1090,1250,63,82,NC
+18,,"Johnson C Smith University  Charlotte, NC",Required,810,980,40,52,NC
+19,,"Lenoir-Rhyne University  Hickory, NC",Required,960,1180,"35(MT,EN)","48(MT,EN)",NC
+20,,"Livingstone College  Salisbury, NC",Required,770,930,38,48,NC
+21,,"Louisburg College  Louisburg, NC",Required,783,1010,42,55,NC
+22,,"Mars Hill University  Mars Hill, NC",Required,920,1130,47,66,NC
+23,,"Meredith College  Raleigh, NC",Required,1000,1200,54,75,NC
+24,,"Methodist University  Fayetteville, NC",Required,960,1150,51,70,NC
+25,,"Mid-Atlantic Christian University  Elizabeth City, NC",Required,828,1046,46,70,NC
+26,,"Montreat College  Montreat, NC",Required,920,1140,16(CM Only),23(CM Only),NC
+27,,"North Carolina A & T State University  Greensboro, NC",Required,950,1110,49,65,NC
+28,,"North Carolina Central University  Durham, NC",Required,900,1050,48,60,NC
+29,,"North Carolina State University at Raleigh  Raleigh, NC",Required,1250,1390,79,94,NC
+30,,"North Carolina Wesleyan College  Rocky Mount, NC",Required,870,1090,45,62,NC
+31,,"Pfeiffer University  Misenheimer, NC",,900,1130,48,65,NC
+32,,"Piedmont International University  Winston-Salem, NC",Required,890,1060,45,59,NC
+33,,"Queens University of Charlotte  Charlotte, NC",Required,1033,1218,62,80,NC
+34,,"Saint Augustine's University  Raleigh, NC",Required,765,940,39,52,NC
+35,,"Salem College  Winston-Salem, NC",Required,1050,1260,62,85,NC
+36,,"St. Andrews University  Laurinburg, NC",Required,780,1155,42,72,NC
+37,,"University of Mount Olive  Mount Olive, NC",Required,918,1116,48,64,NC
+38,,"University of North Carolina at Asheville  Asheville, NC",Required,1060,1250,61,82,NC
+39,,"University of North Carolina at Chapel Hill  Chapel Hill, NC",Required,1270,1480,85,100,NC
+40,,"University of North Carolina at Charlotte  Charlotte, NC",Required,1120,1270,63,77,NC
+41,,"University of North Carolina at Greensboro  Greensboro, NC",Required,990,1160,57,73,NC
+42,,"University of North Carolina at Pembroke  Pembroke, NC",Required,925,1080,49,63,NC
+43,,"University of North Carolina School of the Arts  Winston-Salem, NC",Required,1090,1280,63,84,NC
+44,,"University of North Carolina Wilmington  Wilmington, NC",Required,1190,1320,67,80,NC
+45,,"Warren Wilson College  Swannanoa, NC",,-,-,61,84,NC
+46,,"Western Carolina University  Cullowhee, NC",Required,1030,1210,59,75,NC
+47,,"William Peace University  Raleigh, NC",Required,920,1080,51,70,NC
+48,,"Wingate University  Wingate, NC",Required,980,1170,16(CM Only),22(CM Only),NC
+49,,"Winston-Salem State University  Winston-Salem, NC",Required,890,1030,46,57,NC
+0,,"Dickinson State University  Dickinson, ND",Required,449(MT only),502(MT only),51,69,ND
+1,,"Mayville State University  Mayville, ND",Required,-,-,51,73,ND
+2,,"Minot State University  Minot, ND",Required,920(MT only),"1,130(MT only)",51,70,ND
+3,,"North Dakota State University-Main Campus  Fargo, ND",Required,"1,083(MT only)","1,275(MT only)",62,78,ND
+4,,"Trinity Bible College and Graduate School  Ellendale, ND",Required,810(MT only),"1,155(MT only)",49,67,ND
+5,,"University of Jamestown  Jamestown, ND",Required,950(MT only),"1,130(MT only)",54,72,ND
+6,,"University of Mary  Bismarck, ND",,"1,047(MT only)","1,272(MT only)",59,77,ND
+7,,"University of North Dakota  Grand Forks, ND",Required,980(MT only),"1,230(MT only)",60,80,ND
+8,,"Valley City State University  Valley City, ND",Required,900(MT only),"1,090(MT only)",51,69,ND
+0,,"Antioch College  Yellow Springs, OH",,1065,1350,69,88,OH
+1,,"Art Academy of Cincinnati  Cincinnati, OH",Required,880,1100,49,70,OH
+2,,"Ashland University  Ashland, OH",Required,975,1230,57,74,OH
+3,,"Aultman College of Nursing and Health Sciences  Canton, OH",Required,-,-,55,70,OH
+4,,"Baldwin Wallace University  Berea, OH",,1030,1250,60,80,OH
+5,,"Bluffton University  Bluffton, OH",Required,870,1100,51,75,OH
+6,,"Bowling Green State University-Main Campus  Bowling Green, OH",Required,880,1100,55,72,OH
+7,,"Capital University  Columbus, OH",Required,1000,1210,61,78,OH
+8,,"Case Western Reserve University  Cleveland, OH",Required,1350,1520,90,103,OH
+9,,"Cedarville University  Cedarville, OH",Required,1130,1350,70,88,OH
+10,,"Central State University  Wilberforce, OH",,710,880,41,52,OH
+11,,"Cincinnati Christian University  Cincinnati, OH",Required,880,1060,47,64,OH
+12,,"Cleveland Institute of Art  Cleveland, OH",,1060,1230,54,74,OH
+13,,"Cleveland State University  Cleveland, OH",Required,960,1200,55,75,OH
+14,,"Defiance College  Defiance, OH",Required,855,1070,49,66,OH
+15,,"Denison University  Granville, OH",,1210,1380,81,93,OH
+16,,"Franciscan University of Steubenville  Steubenville, OH",Required,1060,1280,63,85,OH
+17,,"Good Samaritan College of Nursing and Health Science  Cincinnati, OH",Required,-,-,55,65,OH
+18,,"Heidelberg University  Tiffin, OH",Required,990,1170,54,75,OH
+19,,"Hiram College  Hiram, OH",Required,930,1190,52,74,OH
+20,,"John Carroll University  University Heights, OH",Required,1090,1290,65,84,OH
+21,,"Kent State University at Kent  Kent, OH",Required,1030,1210,59,75,OH
+22,,"Kenyon College  Gambier, OH",Required,1280,1470,86,99,OH
+23,,"Kettering College  Kettering, OH",Required,1140,1200,58,74,OH
+24,,"Lake Erie College  Painesville, OH",,923,1130,50,68,OH
+25,,"Lourdes University  Sylvania, OH",Required,940,1140,53,73,OH
+26,,"Malone University  Canton, OH",Required,940,1190,53,75,OH
+27,,"Marietta College  Marietta, OH",Required,990,1210,58,77,OH
+28,,"Miami University-Oxford  Oxford, OH",Required,1200,1380,75,93,OH
+29,,"Mount Carmel College of Nursing  Columbus, OH",Required,-,-,53,68,OH
+30,,"Mount Saint Joseph University  Cincinnati, OH",Required,990,1140,58,73,OH
+31,,"Mount Vernon Nazarene University  Mount Vernon, OH",Required,960,1130,56,75,OH
+32,,"Muskingum University  New Concord, OH",Required,976,1180,54,71,OH
+33,,"Notre Dame College  Cleveland, OH",Required,860,1060,48,63,OH
+34,,"Oberlin College  Oberlin, OH",Required,1280,1490,85,93,OH
+35,,"Ohio Dominican University  Columbus, OH",,920,1100,53,72,OH
+36,,"Ohio Northern University  Ada, OH",Required,1090,1290,66,82,OH
+37,,"Ohio State University-Main Campus  Columbus, OH",Required,1240,1450,80,98,OH
+38,,"Ohio University-Main Campus  Athens, OH",Required,1070,1270,61,78,OH
+39,,"Otterbein University  Westerville, OH",Required,1105,1285,61,81,OH
+40,,"The Christ College of Nursing and Health Sciences  Cincinnati, OH",Required,881,1033,56,70,OH
+41,,"The College of Wooster  Wooster, OH",Required,1130,1370,71,91,OH
+42,,"The University of Findlay  Findlay, OH",Required,1052,1247,60,78,OH
+43,,"University of Akron Main Campus  Akron, OH",Required,990,1250,54,77,OH
+44,,"University of Cincinnati-Main Campus  Cincinnati, OH",Required,1160,1370,71,88,OH
+45,,"University of Dayton  Dayton, OH",Required,1110,1310,71,89,OH
+46,,"University of Mount Union  Alliance, OH",Required,968,1200,56,77,OH
+47,,"University of Toledo  Toledo, OH",Required,1020,1240,58,78,OH
+48,,"Urbana University  Urbana, OH",Required,890,1100,57,71,OH
+49,,"Ursuline College  Pepper Pike, OH",Required,1020,1160,55,70,OH
+50,,"Walsh University  North Canton, OH",Required,990,1190,56,76,OH
+51,,"Wilberforce University  Wilberforce, OH",,731,850,44,57,OH
+52,,"Wilmington College  Wilmington, OH",Required,930,1090,51,70,OH
+53,,"Wright State University-Lake Campus  Celina, OH",Required,970,1120,51,71,OH
+54,,"Wright State University-Main Campus  Dayton, OH",Required,970,1233,52,76,OH
+55,,"Xavier University  Cincinnati, OH",Required,1070,1250,65,84,OH
+56,,"Youngstown State University  Youngstown, OH",Required,960,1190,53,73,OH
+0,,"Bacone College  Muskogee, OK",Required,820,895,40,55,OK
+1,,"East Central University  Ada, OK",Required,930,1110,49,71,OK
+2,,"Northeastern State University  Tahlequah, OK",Required,918,1123,53,70,OK
+3,,"Northwestern Oklahoma State University  Alva, OK",Required,-,-,49,66,OK
+4,,"Oklahoma Baptist University  Shawnee, OK",Required,990,1200,57,78,OK
+5,,"Oklahoma Christian University  Edmond, OK",Required,1020,1280,58,81,OK
+6,,"Oklahoma City University  Oklahoma City, OK",Required,1090,1280,65,87,OK
+7,,"Oklahoma State University-Main Campus  Stillwater, OK",Required,1060,1280,63,82,OK
+8,,"Oklahoma Wesleyan University  Bartlesville, OK",Required,690,1039,46,63,OK
+9,,"Oral Roberts University  Tulsa, OK",Required,1015,1225,56,76,OK
+10,,"Randall University  Moore, OK",Required,940,1100,49,66,OK
+11,,"Southeastern Oklahoma State University  Durant, OK",Required,-,-,51,68,OK
+12,,"Southwestern Christian University  Bethany, OK",Required,895,1080,46,62,OK
+13,,"Southwestern Oklahoma State University  Weatherford, OK",Required,-,-,51,72,OK
+14,,"University of Central Oklahoma  Edmond, OK",Required,-,-,54,72,OK
+15,,"University of Oklahoma-Norman Campus  Norman, OK",Required,1140,1350,67,86,OK
+16,,"University of Science and Arts of Oklahoma  Chickasha, OK",,815,1010,53,71,OK
+17,,"University of Tulsa  Tulsa, OK",Required,1180,1410,74,96,OK
+0,,"Concordia University-Portland  Portland, OR",Required,990,1170,50,68,OR
+1,,"Corban University  Salem, OR",Required,1030,1200,56,76,OR
+2,,"Eastern Oregon University  La Grande, OR",Required,940,1133,50,68,OR
+3,,"George Fox University  Newberg, OR",Required,1020,1230,60,80,OR
+4,,"Linfield College-McMinnville Campus  McMinnville, OR",Required,1020,1200,59,76,OR
+5,,"Northwest Christian University  Eugene, OR",Required,935,1170,50,70,OR
+6,,"Oregon Institute of Technology  Klamath Falls, OR",Required,1030,1240,58,78,OR
+7,,"Oregon State University  Corvallis, OR",Required,1080,1310,65,84,OR
+8,,"Oregon State University-Cascades Campus  Bend, OR",Required,1025,1255,60,80,OR
+9,,"Pacific University  Forest Grove, OR",Required,1060,1250,62,79,OR
+10,,"Portland State University  Portland, OR",,1010,1230,53,75,OR
+11,,"Reed College  Portland, OR",Required,1310,1520,87,100,OR
+12,,"Southern Oregon University  Ashland, OR",Required,920,1150,54,75,OR
+13,,"University of Oregon  Eugene, OR",Required,1080,1290,63,84,OR
+14,,"University of Portland  Portland, OR",Required,1140,1320,69,85,OR
+0,,"Allegheny College  Meadville, PA",,1120,1340,69,89,PA
+1,,"Alvernia University  Reading, PA",Required,950,1130,15(CM Only),21(CM Only),PA
+2,,"Arcadia University  Glenside, PA",Required,1050,1250,61,78,PA
+3,,"Bloomsburg University of Pennsylvania  Bloomsburg, PA",Required,990,1150,55,72,PA
+4,,"Bryn Athyn College of the New Church  Bryn Athyn, PA",Required,996,1203,62,83,PA
+5,,"Bucknell University  Lewisburg, PA",Required,1250,1420,84,97,PA
+6,,"Cairn University-Langhorne  Langhorne, PA",Required,955,1200,53,73,PA
+7,,"California University of Pennsylvania  California, PA",Required,900,1100,48,67,PA
+8,,"Carlow University  Pittsburgh, PA",Required,1000,1180,54,70,PA
+9,,"Carnegie Mellon University  Pittsburgh, PA",Required,1450,1550,98,105,PA
+10,,"Cedar Crest College  Allentown, PA",Required,940,1170,54,75,PA
+11,,"Chestnut Hill College  Philadelphia, PA",Required,940,1120,14(CM Only),18(CM Only),PA
+12,,"Clarion University of Pennsylvania  Clarion, PA",Required,950,1130,51,67,PA
+13,,"Delaware Valley University  Doylestown, PA",Required,970,1160,54,78,PA
+14,,"DeSales University  Center Valley, PA",Required,1010,1230,62,84,PA
+15,,"Drexel University  Philadelphia, PA",Required,1170,1380,73,92,PA
+16,,"Duquesne University  Pittsburgh, PA",Required,1130,1290,70,85,PA
+17,,"East Stroudsburg University of Pennsylvania  East Stroudsburg, PA",,910,1120,50,68,PA
+18,,"Eastern University  Saint Davids, PA",,1030,1190,47,78,PA
+19,,"Edinboro University of Pennsylvania  Edinboro, PA",Required,960,1140,49,68,PA
+20,,"Elizabethtown College  Elizabethtown, PA",Required,1070,1290,62,83,PA
+21,,"Gannon University  Erie, PA",Required,1020,1220,58,77,PA
+22,,"Geneva College  Beaver Falls, PA",Required,1000,1240,57,80,PA
+23,,"Grove City College  Grove City, PA",Required,1085,1275,71,90,PA
+24,,"Gwynedd Mercy University  Gwynedd Valley, PA",Required,940,1110,50,81,PA
+25,,"Haverford College  Haverford, PA",Required,1370,1530,95,103,PA
+26,,"Holy Family University  Philadelphia, PA",Required,935,1090,49,67,PA
+27,,"Immaculata University  Immaculata, PA",,1015,1220,19(CM Only),26(CM Only),PA
+28,,"Indiana University of Pennsylvania-Main Campus  Indiana, PA",Required,910,1120,49,69,PA
+29,,"Kutztown University of Pennsylvania  Kutztown, PA",Required,970,1140,53,71,PA
+30,,"La Roche College  Pittsburgh, PA",Required,910,1110,48,63,PA
+31,,"Lafayette College  Easton, PA",Required,1250,1435,81,97,PA
+32,,"Lancaster Bible College  Lancaster, PA",Required,1000,1200,57,76,PA
+33,,"Lebanon Valley College  Annville, PA",,1068,1280,65,82,PA
+34,,"Lehigh University  Bethlehem, PA",Required,1270,1450,85,99,PA
+35,,"Lincoln University  Lincoln University, PA",Required,860,1020,46,57,PA
+36,,"Lock Haven University  Lock Haven, PA",Required,920,1110,55,73,PA
+37,,"Lycoming College  Williamsport, PA",Required,1010,1198,54,73,PA
+38,,"Manor College  Jenkintown, PA",Required,800,1000,40,46,PA
+39,,"Mansfield University of Pennsylvania  Mansfield, PA",Required,950,1130,48,67,PA
+40,,"Marywood University  Scranton, PA",Required,1010,1190,59,76,PA
+41,,"Messiah College  Mechanicsburg, PA",Required,1080,1310,67,87,PA
+42,,"Millersville University of Pennsylvania  Millersville, PA",Required,990,1180,-,-,PA
+43,,"Misericordia University  Dallas, PA",Required,1040,1200,64,78,PA
+44,,"Moore College of Art and Design  Philadelphia, PA",,1090,1270,20(CM Only),29(CM Only),PA
+45,,"Moravian College  Bethlehem, PA",Required,1050,1200,61,75,PA
+46,,"Mount Aloysius College  Cresson, PA",Required,940,1120,49,65,PA
+47,,"Muhlenberg College  Allentown, PA",,1170,1360,75,90,PA
+48,,"Neumann University  Aston, PA",Required,910,1090,14(CM Only),19(CM Only),PA
+49,,"Pennsylvania State University-Main Campus  University Park, PA",Required,1160,1360,75,93,PA
+50,,"Pennsylvania State University-Penn State Abington  Abington, PA",Required,1010,1270,65,83,PA
+51,,"Pennsylvania State University-Penn State Altoona  Altoona, PA",Required,1000,1180,59,75,PA
+52,,"Pennsylvania State University-Penn State Beaver  Monaca, PA",Required,1000,1210,56,74,PA
+53,,"Pennsylvania State University-Penn State Berks  Reading, PA",Required,1000,1200,59,79,PA
+54,,"Pennsylvania State University-Penn State Brandywine  Media, PA",Required,960,1190,64,83,PA
+55,,"Pennsylvania State University-Penn State DuBois  DuBois, PA",Required,980,1180,54,59,PA
+56,,"Pennsylvania State University-Penn State Erie-Behrend College  Erie, PA",Required,1050,1280,67,83,PA
+57,,"Pennsylvania State University-Penn State Fayette- Eberly  Lemont Furnace, PA",Required,960,1190,45,61,PA
+58,,"Pennsylvania State University-Penn State Greater Allegheny  McKeesport, PA",Required,930,1240,71,82,PA
+59,,"Pennsylvania State University-Penn State Harrisburg  Middletown, PA",Required,1050,1290,69,86,PA
+60,,"Pennsylvania State University-Penn State Hazleton  Hazleton, PA",Required,930,1140,58,85,PA
+61,,"Pennsylvania State University-Penn State Lehigh Valley  Center Valley, PA",Required,1010,1200,58,83,PA
+62,,"Pennsylvania State University-Penn State Mont Alto  Mont Alto, PA",Required,970,1180,61,80,PA
+63,,"Pennsylvania State University-Penn State New Kensington  New Kensington, PA",Required,990,1190,50,76,PA
+64,,"Pennsylvania State University-Penn State Schuylkill  Schuylkill Haven, PA",Required,890,1095,-,-,PA
+65,,"Pennsylvania State University-Penn State Shenango  Sharon, PA",Required,900,1055,47,61,PA
+66,,"Pennsylvania State University-Penn State Wilkes-Barre  Lehman, PA",Required,990,1140,66,79,PA
+67,,"Pennsylvania State University-Penn State Worthington Scranton  Dunmore, PA",Required,970,1150,46,68,PA
+68,,"Pennsylvania State University-Penn State York  York, PA",Required,1030,1300,66,81,PA
+69,,"Pennsylvania State University-World Campus  University Park, PA",Required,990,1260,61,84,PA
+70,,"Point Park University  Pittsburgh, PA",Required,980,1190,58,76,PA
+71,,"Reading Hospital School of Health Sciences  Reading, PA",Required,965,1100,-,-,PA
+72,,"Robert Morris University  Moon Township, PA",Required,1030,1200,60,82,PA
+73,,"Rosemont College  Rosemont, PA",Required,910,1140,48,66,PA
+74,,"Saint Francis University  Loretto, PA",Required,1040,1250,59,78,PA
+75,,"Saint Joseph's University  Philadelphia, PA",,1120,1290,67,87,PA
+76,,"Saint Vincent College  Latrobe, PA",Required,1030,1230,55,77,PA
+77,,"Shippensburg University of Pennsylvania  Shippensburg, PA",Required,970,1170,49,70,PA
+78,,"Slippery Rock University of Pennsylvania  Slippery Rock, PA",Required,1010,1170,56,74,PA
+79,,"Swarthmore College  Swarthmore, PA",Required,1380,1550,93,103,PA
+80,,"Thiel College  Greenville, PA",Required,860,1100,43,60,PA
+81,,"Thomas Jefferson University  Philadelphia, PA",Required,1060,1240,64,83,PA
+82,,"University of Pennsylvania  Philadelphia, PA",Required,1420,1550,97,106,PA
+83,,"University of Pittsburgh-Bradford  Bradford, PA",Required,980,1160,55,75,PA
+84,,"University of Pittsburgh-Greensburg  Greensburg, PA",Required,1010,1190,59,76,PA
+85,,"University of Pittsburgh-Johnstown  Johnstown, PA",Required,1020,1200,60,76,PA
+86,,"University of Pittsburgh-Pittsburgh Campus  Pittsburgh, PA",Required,1270,1430,81,98,PA
+87,,"University of Pittsburgh-Titusville  Titusville, PA",Required,900,1100,40,66,PA
+88,,"University of Scranton  Scranton, PA",Required,1120,1280,21(CM Only),26(CM Only),PA
+89,,"University of the Sciences  Philadelphia, PA",Required,1120,1310,67,87,PA
+90,,"Ursinus College  Collegeville, PA",,1140,1320,67,86,PA
+91,,"Villanova University  Villanova, PA",Required,1300,1470,88,100,PA
+92,,"Waynesburg University  Waynesburg, PA",Required,980,1150,54,74,PA
+93,,"West Chester University of Pennsylvania  West Chester, PA",Required,1050,1200,60,77,PA
+94,,"Westminster College  New Wilmington, PA",Required,1000,1220,56,78,PA
+95,,"Widener University  Chester, PA",Required,1020,1200,58,77,PA
+96,,"Wilkes University  Wilkes-Barre, PA",Required,1050,1240,62,79,PA
+97,,"Wilson College  Chambersburg, PA",Required,980,1130,52,64,PA
+98,,"York College of Pennsylvania  York, PA",Required,1020,1230,59,77,PA
+0,,"Brown University  Providence, RI",Required,1420,1550,96,106,RI
+1,,"Providence College  Providence, RI",,1210,1360,77,92,RI
+2,,"Rhode Island College  Providence, RI",Required,890,1100,48,58,RI
+3,,"Rhode Island School of Design  Providence, RI",Required,1180,1440,76,98,RI
+4,,"University of Rhode Island  Kingston, RI",Required,1070,1240,63,80,RI
+0,,"Anderson University  Anderson, SC",Required,958,1275,60,79,SC
+1,,"Charleston Southern University  Charleston, SC",Required,1020,1200,57,75,SC
+2,,"Citadel Military College of South Carolina  Charleston, SC",Required,1030,1220,59,75,SC
+3,,"Claflin University  Orangeburg, SC",Required,830,1060,46,58,SC
+4,,"Clemson University  Clemson, SC",Required,1220,1400,80,97,SC
+5,,"Coastal Carolina University  Conway, SC",Required,1030,1170,54,72,SC
+6,,"Coker College  Hartsville, SC",Required,950,1160,48,63,SC
+7,,"College of Charleston  Charleston, SC",Required,1070,1250,64,83,SC
+8,,"Columbia International University  Columbia, SC",Required,940,1120,49,68,SC
+9,,"Converse College  Spartanburg, SC",Required,1040,1200,56,75,SC
+10,,"Erskine College  Due West, SC",Required,930,1140,51,70,SC
+11,,"Francis Marion University  Florence, SC",Required,810,1030,49,65,SC
+12,,"Furman  Greenville, SC",,1230,1410,80,96,SC
+13,,"Lander University  Greenwood, SC",Required,930,1120,48,66,SC
+14,,"Limestone College  Gaffney, SC",Required,960,1130,50,68,SC
+15,,"Newberry College  Newberry, SC",Required,920,1120,48,68,SC
+16,,"North Greenville University  Tigerville, SC",Required,850,1320,62,89,SC
+17,,"Presbyterian College  Clinton, SC",,1010,1210,17(CM Only),23(CM Only),SC
+18,,"South Carolina State University  Orangeburg, SC",Required,860,1010,13(CM Only),16(CM Only),SC
+19,,"Southern Wesleyan University  Central, SC",Recommended,970,1150,51,69,SC
+20,,"Spartanburg Methodist College  Spartanburg, SC",Required,840,1060,43,57,SC
+21,,"University of South Carolina-Aiken  Aiken, SC",Required,950,1140,49,66,SC
+22,,"University of South Carolina-Beaufort  Bluffton, SC",Required,915,1120,49,65,SC
+23,,"University of South Carolina-Columbia  Columbia, SC",Required,1190,1360,73,91,SC
+24,,"University of South Carolina-Lancaster  Lancaster, SC",Required,890,1110,44,62,SC
+25,,"University of South Carolina-Salkehatchie  Allendale, SC",Required,820,1000,39,52,SC
+26,,"University of South Carolina-Sumter  Sumter, SC",Required,925,1130,44,58,SC
+27,,"University of South Carolina-Union  Union, SC",Required,800,1040,41,52,SC
+28,,"University of South Carolina-Upstate  Spartanburg, SC",Required,920,1110,48,65,SC
+29,,"Winthrop University  Rock Hill, SC",Required,950,1160,18(CM Only),23(CM Only),SC
+30,,"Wofford College  Spartanburg, SC",,1180,1350,78,91,SC
+0,,"Augustana University  Sioux Falls, SD",Required,1060,1330,66,85,SD
+1,,"Black Hills State University  Spearfish, SD",Required,958,1180,51,71,SD
+2,,"Dakota State University  Madison, SD",Required,960,1220,57,77,SD
+3,,"Dakota Wesleyan University  Mitchell, SD",Required,900,1060,53,72,SD
+4,,"Mount Marty College  Yankton, SD",Required,-,-,52,71,SD
+5,,"Northern State University  Aberdeen, SD",Required,930,1200,52,71,SD
+6,,"Presentation College  Aberdeen, SD",Required,963,1093,52,69,SD
+7,,"South Dakota School of Mines and Technology  Rapid City, SD",Required,1160,1363,73,87,SD
+8,,"South Dakota State University  Brookings, SD",Required,1010,1260,57,77,SD
+9,,"University of Sioux Falls  Sioux Falls, SD",Required,1060,1180,56,74,SD
+10,,"University of South Dakota  Vermillion, SD",Required,1030,1260,56,74,SD
+0,,"Austin Peay State University  Clarksville, TN",Required,958,1178,54,71,TN
+1,,"Baptist Memorial College of Health Sciences  Memphis, TN",Required,-,-,55,69,TN
+2,,"Belmont University  Nashville, TN",Required,1120,1300,70,89,TN
+3,,"Bethel University  McKenzie, TN",Required,820,1072,46,76,TN
+4,,"Bryan College-Dayton  Dayton, TN",Required,974,1262,60,76,TN
+5,,"Carson-Newman University  Jefferson City, TN",Required,960,1168,57,76,TN
+6,,"Christian Brothers University  Memphis, TN",Required,-,-,62,79,TN
+7,,"Cumberland University  Lebanon, TN",Required,930,1090,54,70,TN
+8,,"East Tennessee State University  Johnson City, TN",Required,970,1180,57,79,TN
+9,,"Fisk University  Nashville, TN",Required,890,1120,50,69,TN
+10,,"Freed-Hardeman University  Henderson, TN",Required,1010,1300,63,84,TN
+11,,"Hiwassee College  Madisonville, TN",Required,1030,1090,49,67,TN
+12,,"John A Gupton College  Nashville, TN",Required,-,-,18,33,TN
+13,,"Johnson University  Knoxville, TN",Required,1050,1240,59,76,TN
+14,,"King University  Bristol, TN",,950,1160,55,75,TN
+15,,"Le Moyne-Owen College  Memphis, TN",Required,-,-,41,49,TN
+16,,"Lee University  Cleveland, TN",Required,960,1220,60,85,TN
+17,,"Lincoln Memorial University  Harrogate, TN",Required,1003,1198,56,75,TN
+18,,"Lipscomb University  Nashville, TN",Required,1060,1320,66,89,TN
+19,,"Martin Methodist College  Pulaski, TN",Required,983,1093,52,72,TN
+20,,"Maryville College  Maryville, TN",Required,910,1160,61,83,TN
+21,,"Middle Tennessee State University  Murfreesboro, TN",Required,1020,1240,57,78,TN
+22,,"Milligan College  Milligan College, TN",Required,1070,1310,66,84,TN
+23,,"Rhodes College  Memphis, TN",Required,1240,1410,83,95,TN
+24,,"Tennessee Technological University  Cookeville, TN",Required,1050,1260,62,81,TN
+25,,"Tennessee Wesleyan University  Athens, TN",Required,920,1160,56,75,TN
+26,,"The University of Tennessee-Chattanooga  Chattanooga, TN",Required,990,1210,61,81,TN
+27,,"The University of Tennessee-Knoxville  Knoxville, TN",Required,1150,1330,73,93,TN
+28,,"The University of Tennessee-Martin  Martin, TN",Required,-,-,61,77,TN
+29,,"Trevecca Nazarene University  Nashville, TN",Required,1010,1240,57,78,TN
+30,,"Tusculum College  Greeneville, TN",Required,960,1125,52,72,TN
+31,,"Union University  Jackson, TN",Required,1110,1360,66,89,TN
+32,,"University of Memphis  Memphis, TN",Required,970,1210,57,78,TN
+33,,"Vanderbilt University  Nashville, TN",Required,1450,1560,97,105,TN
+34,,"Visible Music College  Memphis, TN",Required,1040,1270,49,74,TN
+35,,"Watkins College of Art Design & Film  Nashville, TN",Required,800,1100,51,71,TN
+0,,"Abilene Christian University  Abilene, TX",Required,1040,1230,60,79,TX
+1,,"Angelo State University  San Angelo, TX",Required,920,1110,49,68,TX
+2,,"Austin College  Sherman, TX",Required,1130,1330,20(CM Only),25(CM Only),TX
+3,,"Baylor University  Waco, TX",Required,1190,1370,75,94,TX
+4,,"Concordia University-Texas  Lakeway, TX",Required,940,1170,52,71,TX
+5,,"Criswell College  Dallas, TX",Recommended,888,1083,47,62,TX
+6,,"Dallas Baptist University  Dallas, TX",Required,1090,1270,18(CM Only),22(CM Only),TX
+7,,"Dallas Christian College  Dallas, TX",Required,811,1156,48,68,TX
+8,,"East Texas Baptist University  Marshall, TX",Required,960,1100,51,69,TX
+9,,"Hardin-Simmons University  Abilene, TX",Required,1000,1170,51,73,TX
+10,,"Houston Baptist University  Houston, TX",Required,1030,1200,57,74,TX
+11,,"Howard Payne University  Brownwood, TX",Required,950,1100,51,68,TX
+12,,"Huston-Tillotson University  Austin, TX",Required,810,980,40,53,TX
+13,,"Lamar University  Beaumont, TX",Required,950,1120,51,70,TX
+14,,"LeTourneau University  Longview, TX",Required,1090,1320,63,82,TX
+15,,"Lubbock Christian University  Lubbock, TX",Required,955,1210,51,75,TX
+16,,"McMurry University  Abilene, TX",Required,950,1150,51,68,TX
+17,,"Midwestern State University  Wichita Falls, TX",Required,940,1100,52,71,TX
+18,,"Our Lady of the Lake University  San Antonio, TX",Required,910,1080,48,63,TX
+19,,"Paul Quinn College  Dallas, TX",Required,712,928,37,49,TX
+20,,"Prairie View A & M University  Prairie View, TX",Required,890,1050,46,61,TX
+21,,"Rice University  Houston, TX",Required,1450,1560,98,106,TX
+22,,"Saint Edward's University  Austin, TX",Required,1080,1270,64,82,TX
+23,,"Sam Houston State University  Huntsville, TX",Required,1000,1140,55,72,TX
+24,,"Schreiner University  Kerrville, TX",Required,960,1130,50,68,TX
+25,,"Southern Methodist University  Dallas, TX",Required,1280,1460,85,99,TX
+26,,"Southwestern Adventist University  Keene, TX",Required,910,1110,48,70,TX
+27,,"Southwestern Assemblies of God University  Waxahachie, TX",Required,950,1130,48,69,TX
+28,,"Southwestern University  Georgetown, TX",Required,1130,1330,68,88,TX
+29,,"St. Mary's University  San Antonio, TX",Required,1050,1250,60,79,TX
+30,,"Stephen F Austin State University  Nacogdoches, TX",Required,990,1180,52,67,TX
+31,,"Tarleton State University  Stephenville, TX",Required,960,1140,51,68,TX
+32,,"Texas A & M International University  Laredo, TX",Required,930,1100,46,61,TX
+33,,"Texas A & M University-College Station  College Station, TX",Required,1170,1380,73,93,TX
+34,,"Texas A & M University-Commerce  Commerce, TX",Required,960,1140,48,68,TX
+35,,"Texas A & M University-Corpus Christi  Corpus Christi, TX",Required,980,1160,51,69,TX
+36,,"Texas A & M University-Kingsville  Kingsville, TX",Required,940,1130,48,64,TX
+37,,"Texas A&M University-San Antonio  San Antonio, TX",Required,930,1080,47,58,TX
+38,,"Texas A&M University-Texarkana  Texarkana, TX",Required,990,1130,55,69,TX
+39,,"Texas Christian University  Fort Worth, TX",Required,1150,1343,77,93,TX
+40,,"Texas Lutheran University  Seguin, TX",Required,990,1160,55,76,TX
+41,,"Texas Southern University  Houston, TX",Required,830,990,42,54,TX
+42,,"Texas State University  San Marcos, TX",Required,1010,1180,57,75,TX
+43,,"Texas Tech University  Lubbock, TX",Required,1070,1240,64,80,TX
+44,,"Texas Wesleyan University  Fort Worth, TX",Required,930,1100,56,72,TX
+45,,"Texas Woman's University  Denton, TX",Required,970,1160,50,69,TX
+46,,"The King's University  Southlake, TX",Required,890,1090,58,77,TX
+47,,"The University of Texas at Arlington  Arlington, TX",Required,1060,1260,58,77,TX
+48,,"The University of Texas at Austin  Austin, TX",Required,1230,1480,79,100,TX
+49,,"The University of Texas at Dallas  Richardson, TX",Required,1220,1440,74,97,TX
+50,,"The University of Texas at El Paso  El Paso, TX",Required,940,1130,49,67,TX
+51,,"The University of Texas at San Antonio  San Antonio, TX",Required,1040,1220,56,74,TX
+52,,"The University of Texas at Tyler  Tyler, TX",Required,1080,1280,62,83,TX
+53,,"The University of Texas of the Permian Basin  Odessa, TX",Required,970,1130,49,67,TX
+54,,"The University of Texas Rio Grande Valley  Edinburg, TX",Required,950,1120,49,65,TX
+55,,"Trinity University  San Antonio, TX",Required,1260,1430,79,96,TX
+56,,"University of Dallas  Irving, TX",Required,1120,1340,68,90,TX
+57,,"University of Houston  Houston, TX",Required,1130,1310,65,82,TX
+58,,"University of Houston-Clear Lake  Houston, TX",Required,1040,1200,57,73,TX
+59,,"University of Houston-Downtown  Houston, TX",Required,940,1080,48,62,TX
+60,,"University of Mary Hardin-Baylor  Belton, TX",Required,1030,1200,56,73,TX
+61,,"University of North Texas  Denton, TX",Required,1060,1260,60,78,TX
+62,,"University of North Texas at Dallas  Dallas, TX",Required,920,1080,46,59,TX
+63,,"University of St Thomas  Houston, TX",Required,1060,1250,64,76,TX
+64,,"University of the Incarnate Word  San Antonio, TX",Required,950,1140,48,65,TX
+65,,"Wayland Baptist University  Plainview, TX",Required,890,1090,46,65,TX
+66,,"West Texas A & M University  Canyon, TX",Required,970,1170,52,71,TX
+0,,"Brigham Young University-Provo  Provo, UT",Required,1190,1420,78,95,UT
+1,,"Southern Utah University  Cedar City, UT",Required,1010,1250,60,81,UT
+2,,"University of Utah  Salt Lake City, UT",Required,1130,1350,66,87,UT
+3,,"Utah State University  Logan, UT",Required,1050,1290,60,83,UT
+4,,"Westminster College  Salt Lake City, UT",Required,1080,1258,60,81,UT
+0,,"Castleton University  Castleton, VT",Required,920,1110,49,69,VT
+1,,"Champlain College  Burlington, VT",Required,1090,1280,63,83,VT
+2,,"Green Mountain College  Poultney, VT",Recommended,990,1180,48,76,VT
+3,,"Middlebury College  Middlebury, VT",Required,1330,1500,29(CM Only),32(CM Only),VT
+4,,"University of Vermont  Burlington, VT",Required,1180,1360,75,93,VT
+0,,"Averett University  Danville, VA",Required,890,980,14(CM Only),20(CM Only),VA
+1,,"Bluefield College  Bluefield, VA",Required,898,1063,46,59,VA
+2,,"Bridgewater College  Bridgewater, VA",Required,980,1170,52,75,VA
+3,,"Christopher Newport University  Newport News, VA",Recommended,1110,1280,21(CM Only),26(CM Only),VA
+4,,"College of William and Mary  Williamsburg, VA",Required,1310,1490,88,100,VA
+5,,"Eastern Mennonite University  Harrisonburg, VA",Required,1000,1230,63,91,VA
+6,,"Emory & Henry College  Emory, VA",Required,980,1160,53,71,VA
+7,,"Ferrum College  Ferrum, VA",Required,870,1053,48,67,VA
+8,,"George Mason University  Fairfax, VA",Required,1120,1320,70,89,VA
+9,,"Hampden-Sydney College  Hampden-Sydney, VA",Required,1050,1250,60,82,VA
+10,,"Hollins University  Roanoke, VA",Required,1070,1280,65,87,VA
+11,,"James Madison University  Harrisonburg, VA",,1120,1290,21(CM Only),26(CM Only),VA
+12,,"Jefferson College of Health Sciences  Roanoke, VA",,930,1115,15(CM Only),19(CM Only),VA
+13,,"Liberty University  Lynchburg, VA",Required,970,1200,61,84,VA
+14,,"Longwood University  Farmville, VA",Required,980,1150,16(CM Only),21(CM Only),VA
+15,,"Mary Baldwin University  Staunton, VA",Required,950,1130,52,72,VA
+16,,"Marymount University  Arlington, VA",Required,950,1180,48,73,VA
+17,,"Norfolk State University  Norfolk, VA",Required,860,1030,14(CM Only),19(CM Only),VA
+18,,"Old Dominion University  Norfolk, VA",Required,990,1200,52,73,VA
+19,,"Randolph College  Lynchburg, VA",Required,960,1190,50,75,VA
+20,,"Randolph-Macon College  Ashland, VA",Required,1020,1240,58,81,VA
+21,,"Regent University  Virginia Beach, VA",Required,958,1113,56,75,VA
+22,,"Roanoke College  Salem, VA",Required,1040,1230,64,81,VA
+23,,"Shenandoah University  Winchester, VA",Required,980,1190,59,78,VA
+24,,"Southern Virginia University  Buena Vista, VA",Required,960,1237,56,77,VA
+25,,"Sweet Briar College  Sweet Briar, VA",Required,990,1210,59,77,VA
+26,,"The University of Virginia's College at Wise  Wise, VA",Required,950,1130,52,74,VA
+27,,"University of Mary Washington  Fredericksburg, VA",Required,1050,1269,64,84,VA
+28,,"University of Richmond  University of Richmond, VA",Required,1290,1460,28(CM Only),31(CM Only),VA
+29,,"University of Virginia-Main Campus  Charlottesville, VA",Required,1330,1500,89,103,VA
+30,,"Virginia Commonwealth University  Richmond, VA",Required,1070,1260,60,83,VA
+31,,"Virginia Military Institute  Lexington, VA",Required,1100,1310,68,86,VA
+32,,"Virginia Polytechnic Institute and State University  Blacksburg, VA",Required,1180,1390,74,93,VA
+33,,"Virginia State University  Petersburg, VA",Required,840,1010,44,61,VA
+34,,"Virginia Union University  Richmond, VA",,782,970,43,53,VA
+35,,"Virginia Wesleyan University  Virginia Beach, VA",Required,980,1180,57,74,VA
+36,,"Washington and Lee University  Lexington, VA",Required,1348,1490,92,102,VA
+0,,"Central Washington University  Ellensburg, WA",Required,960,1160,49,70,WA
+1,,"DigiPen Institute of Technology  Redmond, WA",Required,1150,1395,71,93,WA
+2,,"Eastern Washington University  Cheney, WA",Required,870,1080,48,68,WA
+3,,"Gonzaga University  Spokane, WA",Required,1190,1350,75,92,WA
+4,,"Northwest University  Kirkland, WA",Required,1030,1225,60,77,WA
+5,,"Pacific Lutheran University  Tacoma, WA",Required,1070,1270,59,83,WA
+6,,"Saint Martin's University  Lacey, WA",Required,1020,1220,55,77,WA
+7,,"Seattle Pacific University  Seattle, WA",Required,1030,1240,59,80,WA
+8,,"Seattle University  Seattle, WA",Required,1130,1320,71,90,WA
+9,,"University of Washington-Bothell Campus  Bothell, WA",Required,1030,1250,56,79,WA
+10,,"University of Washington-Seattle Campus  Seattle, WA",Required,1220,1460,79,99,WA
+11,,"University of Washington-Tacoma Campus  Tacoma, WA",Required,980,1190,47,69,WA
+12,,"Walla Walla University  College Place, WA",Required,920,1210,57,80,WA
+13,,"Washington State University  Pullman, WA",Required,1020,1210,57,77,WA
+14,,"Western Washington University  Bellingham, WA",Required,1080,1280,64,86,WA
+15,,"Whitman College  Walla Walla, WA",,1230,1450,78,98,WA
+16,,"Whitworth University  Spokane, WA",,1090,1290,62,83,WA
+0,,"Alderson Broaddus University  Philippi, WV",Required,920,1100,49,65,WV
+1,,"Appalachian Bible College  Mount Hope, WV",Required,910,1130,51,71,WV
+2,,"Bethany College  Bethany, WV",Required,890,1130,50,68,WV
+3,,"Bluefield State College  Bluefield, WV",Required,920,1120,48,62,WV
+4,,"Concord University  Athens, WV",Required,920,1120,50,69,WV
+5,,"Davis & Elkins College  Elkins, WV",Required,910,1080,47,63,WV
+6,,"Fairmont State University  Fairmont, WV",Required,900,1090,50,68,WV
+7,,"Marshall University  Huntington, WV",Required,910,1130,54,74,WV
+8,,"Ohio Valley University  Vienna, WV",Required,960,1175,51,66,WV
+9,,"Shepherd University  Shepherdstown, WV",Required,970,1160,54,70,WV
+10,,"University of Charleston  Charleston, WV",,906,1143,50,69,WV
+11,,"West Liberty University  West Liberty, WV",Required,820,1300,49,67,WV
+12,,"West Virginia State University  Institute, WV",Required,880,1040,48,64,WV
+13,,"West Virginia University  Morgantown, WV",Required,1050,1240,60,79,WV
+14,,"West Virginia University Institute of Technology  Beckley, WV",Required,1020,1190,60,79,WV
+15,,"West Virginia Wesleyan College  Buckhannon, WV",Required,975,1180,55,74,WV
+16,,"Wheeling Jesuit University  Wheeling, WV",Required,910,1130,52,70,WV
+0,,"Bellin College  Green Bay, WI",Required,-,-,63,75,WI
+1,,"Beloit College  Beloit, WI",,1120,1360,63,86,WI
+2,,"Cardinal Stritch University  Milwaukee, WI",Required,872,1023,52,66,WI
+3,,"Carroll University  Waukesha, WI",Required,1050,1230,62,78,WI
+4,,"Carthage College  Kenosha, WI",,1020,1250,61,80,WI
+5,,"Concordia University-Wisconsin  Mequon, WI",Required,-,-,59,78,WI
+6,,"Edgewood College  Madison, WI",Required,970,1220,57,75,WI
+7,,"Lakeland University  Plymouth, WI",Required,870,1080,47,67,WI
+8,,"Lawrence University  Appleton, WI",,1210,1450,77,94,WI
+9,,"Maranatha Baptist University  Watertown, WI",,1043,1218,58,77,WI
+10,,"Marian University  Fond Du Lac, WI",Required,900,1090,50,66,WI
+11,,"Marquette University  Milwaukee, WI",Required,1150,1320,72,89,WI
+12,,"Milwaukee School of Engineering  Milwaukee, WI",Required,1188,1370,74,91,WI
+13,,"Mount Mary University  Milwaukee, WI",Required,-,-,47,62,WI
+14,,"Ripon College  Ripon, WI",,1000,1210,18(CM Only),25(CM Only),WI
+15,,"Saint Norbert College  De Pere, WI",Required,1030,1210,64,81,WI
+16,,"Silver Lake College of the Holy Family  Manitowoc, WI",Recommended,800,1210,42,57,WI
+17,,"University of Wisconsin-Eau Claire  Eau Claire, WI",Required,-,-,62,78,WI
+18,,"University of Wisconsin-Green Bay  Green Bay, WI",Required,-,-,54,74,WI
+19,,"University of Wisconsin-La Crosse  La Crosse, WI",Required,-,-,67,80,WI
+20,,"University of Wisconsin-Madison  Madison, WI",Required,1280,1450,80,97,WI
+21,,"University of Wisconsin-Milwaukee  Milwaukee, WI",Required,-,-,55,74,WI
+22,,"University of Wisconsin-Oshkosh  Oshkosh, WI",Required,-,-,54,72,WI
+23,,"University of Wisconsin-Parkside  Kenosha, WI",Required,-,-,51,69,WI
+24,,"University of Wisconsin-Platteville  Platteville, WI",Required,-,-,58,78,WI
+25,,"University of Wisconsin-River Falls  River Falls, WI",Required,-,-,56,74,WI
+26,,"University of Wisconsin-Stevens Point  Stevens Point, WI",Required,-,-,55,74,WI
+27,,"University of Wisconsin-Stout  Menomonie, WI",Required,-,-,56,75,WI
+28,,"University of Wisconsin-Superior  Superior, WI",Required,-,-,54,73,WI
+29,,"University of Wisconsin-Whitewater  Whitewater, WI",Required,-,-,55,73,WI
+30,,"Viterbo University  La Crosse, WI",Required,1040,1400,62,77,WI
+31,,"Wisconsin Lutheran College  Milwaukee, WI",Required,1016,1198,59,78,WI
+0,,"University of Wyoming  Laramie, WY",Required,1050,1280,63,83,WY
