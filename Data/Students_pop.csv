@@ -23,8 +23,8 @@
 21,,"Fortis College  Mobile, AL",375,375(100.00%),-,AL
 22,,"Fortis College-Dothan  Dothan, AL",189,189(100.00%),-,AL
 23,,"Fortis College-Foley  Foley, AL",149,149(100.00%),-,AL
-24,,"Fortis College-Montgomery  Montgomery, AL",311,311(100.00%),-,AL
-25,,"Fortis College-Montgomery  Montgomery, AL",207,207(100.00%),-,AL
+24,,"Fortis College-Montgomery  Montgomery, AL",207,207(100.00%),-,AL
+25,,"Fortis College-Montgomery  Montgomery, AL",311,311(100.00%),-,AL
 26,,"Fortis Institute-Birmingham  Birmingham, AL",451,451(100.00%),-,AL
 27,,"Gadsden State Community College  Gadsden, AL",4979,"4,979(100.00%)",-,AL
 28,,"George C Wallace Community College-Dothan  Dothan, AL",4645,"4,645(100.00%)",-,AL
@@ -389,8 +389,8 @@
 98,,"California Career School  Anaheim, CA",86,86(100.00%),-,CA
 99,,"California Christian College  Fresno, CA",16,16(100.00%),-,CA
 100,,"California College of the Arts  San Francisco, CA",1927,"1,486(77.11%)",441(22.89%),CA
-101,,"California College San Diego  San Marcos, CA",327,327(100.00%),-,CA
-102,,"California College San Diego  San Diego, CA",875,875(100.00%),-,CA
+101,,"California College San Diego  San Diego, CA",875,875(100.00%),-,CA
+102,,"California College San Diego  San Marcos, CA",327,327(100.00%),-,CA
 103,,"California Hair Design Academy  La Mesa, CA",206,206(100.00%),-,CA
 104,,"California Healing Arts College  Carson, CA",162,162(100.00%),-,CA
 105,,"California Institute of Arts & Technology  San Diego, CA",804,804(100.00%),-,CA
@@ -841,9 +841,9 @@
 550,,"United Education Institute-UEI College Stockton  Stockton, CA",492,492(100.00%),-,CA
 551,,"United Education Institute-West Covina  West Covina, CA",574,574(100.00%),-,CA
 552,,"United States University  San Diego, CA",429,99(23.08%),330(76.92%),CA
-553,,"Unitek College  Fremont, CA",2715,"2,715(100.00%)",-,CA
+553,,"Unitek College  Hayward, CA",249,249(100.00%),-,CA
 554,,"Unitek College  South San Francisco, CA",159,159(100.00%),-,CA
-555,,"Unitek College  Hayward, CA",249,249(100.00%),-,CA
+555,,"Unitek College  Fremont, CA",2715,"2,715(100.00%)",-,CA
 556,,"Universal College of Beauty Inc-Los Angeles 2  Los Angeles, CA",26,26(100.00%),-,CA
 557,,"Universal Healthcare Careers College  Los Angeles, CA",70,70(100.00%),-,CA
 558,,"Universal Technical Institute of California Inc  Rancho Cucamonga, CA",1273,"1,273(100.00%)",-,CA
@@ -963,8 +963,8 @@
 61,,"National American University-Colorado Springs  Colorado Springs, CO",196,196(100.00%),-,CO
 62,,"National American University-Colorado Springs South  Colorado Springs, CO",152,152(100.00%),-,CO
 63,,"National Beauty College  Denver, CO",53,53(100.00%),-,CO
-64,,"National Personal Training Institute of Colorado  Lakewood, CO",66,66(100.00%),-,CO
-65,,"National Personal Training Institute of Colorado  Colorado Springs, CO",37,37(100.00%),-,CO
+64,,"National Personal Training Institute of Colorado  Colorado Springs, CO",37,37(100.00%),-,CO
+65,,"National Personal Training Institute of Colorado  Lakewood, CO",66,66(100.00%),-,CO
 66,,"Nazarene Bible College  Colorado Springs, CO",743,743(100.00%),-,CO
 67,,"New Dimensions Beauty Academy Inc  Parker, CO",62,62(100.00%),-,CO
 68,,"Northeastern Junior College  Sterling, CO",1547,"1,547(100.00%)",-,CO
@@ -1401,8 +1401,8 @@
 285,,"South University-Tampa  Tampa, FL",883,543(61.49%),340(38.51%),FL
 286,,"Southeastern College-West Palm Beach  West Palm Beach, FL",499,499(100.00%),-,FL
 287,,"Southeastern University  Lakeland, FL",7163,"6,240(87.11%)",923(12.89%),FL
-288,,"Southern Technical College  Orlando, FL",1321,"1,321(100.00%)",-,FL
-289,,"Southern Technical College  Fort Myers, FL",887,887(100.00%),-,FL
+288,,"Southern Technical College  Fort Myers, FL",887,887(100.00%),-,FL
+289,,"Southern Technical College  Orlando, FL",1321,"1,321(100.00%)",-,FL
 290,,"St Petersburg College  Clearwater, FL",29548,"29,548(100.00%)",-,FL
 291,,"St Thomas University  Miami Gardens, FL",4538,"2,906(64.04%)","1,632(35.96%)",FL
 292,,"State College of Florida-Manatee-Sarasota  Bradenton, FL",10886,"10,886(100.00%)",-,FL
@@ -2147,8 +2147,8 @@
 26,,"Garden City Community College  Garden City, KS",2064,"2,064(100.00%)",-,KS
 27,,"Grantham University  Lenexa, KS",9303,"7,816(84.02%)","1,487(15.98%)",KS
 28,,"Haskell Indian Nations University  Lawrence, KS",806,806(100.00%),-,KS
-29,,"Hays Academy of Hair Design  Salina, KS",50,50(100.00%),-,KS
-30,,"Hays Academy of Hair Design  Hays, KS",56,56(100.00%),-,KS
+29,,"Hays Academy of Hair Design  Hays, KS",56,56(100.00%),-,KS
+30,,"Hays Academy of Hair Design  Salina, KS",50,50(100.00%),-,KS
 31,,"Hesston College  Hesston, KS",440,440(100.00%),-,KS
 32,,"Highland Community College  Highland, KS",3260,"3,260(100.00%)",-,KS
 33,,"Hutchinson Community College  Hutchinson, KS",5854,"5,854(100.00%)",-,KS
@@ -2342,8 +2342,8 @@
 49,,"Infinity College  Lafayette, LA",102,102(100.00%),-,LA
 50,,"ITI Technical College  Baton Rouge, LA",622,622(100.00%),-,LA
 51,,"J's Barber College  New Iberia, LA",34,34(100.00%),-,LA
-52,,"John Jay Beauty College  Kenner, LA",74,74(100.00%),-,LA
-53,,"John Jay Beauty College  New Orleans, LA",16,16(100.00%),-,LA
+52,,"John Jay Beauty College  New Orleans, LA",16,16(100.00%),-,LA
+53,,"John Jay Beauty College  Kenner, LA",74,74(100.00%),-,LA
 54,,"Learning Bridge Career Institute  Houma, LA",48,48(100.00%),-,LA
 55,,"Louisiana Academy of Beauty  Eunice, LA",47,47(100.00%),-,LA
 56,,"Louisiana College  Pineville, LA",1196,987(82.53%),209(17.47%),LA
@@ -2357,8 +2357,8 @@
 64,,"Louisiana State University-Shreveport  Shreveport, LA",5996,"2,638(44.00%)","3,358(56.00%)",LA
 65,,"Louisiana Tech University  Ruston, LA",12839,"11,328(88.23%)","1,511(11.77%)",LA
 66,,"Loyola University New Orleans  New Orleans, LA",3759,"2,602(69.22%)","1,157(30.78%)",LA
-67,,"McCann School of Business & Technology  Monroe, LA",591,591(100.00%),-,LA
-68,,"McCann School of Business & Technology  Shreveport, LA",184,184(100.00%),-,LA
+67,,"McCann School of Business & Technology  Shreveport, LA",184,184(100.00%),-,LA
+68,,"McCann School of Business & Technology  Monroe, LA",591,591(100.00%),-,LA
 69,,"McNeese State University  Lake Charles, LA",7629,"6,926(90.79%)",703(9.21%),LA
 70,,"Medical Training College  Baton Rouge, LA",215,215(100.00%),-,LA
 71,,"Mid City College  Baton Rouge, LA",2,2(100.00%),-,LA
@@ -2811,8 +2811,8 @@
 109,,"Paul Mitchell the School-Michigan  Sterling Heights, MI",194,194(100.00%),-,MI
 110,,"Port Huron Cosmetology College  Waterford, MI",50,50(100.00%),-,MI
 111,,"Princess Beauty School  Dearborn Heights, MI",22,22(100.00%),-,MI
-112,,"Protege Academy  Mt. Pleasant, MI",44,44(100.00%),-,MI
-113,,"Protege Academy  East Lansing, MI",58,58(100.00%),-,MI
+112,,"Protege Academy  East Lansing, MI",58,58(100.00%),-,MI
+113,,"Protege Academy  Mt. Pleasant, MI",44,44(100.00%),-,MI
 114,,"Rochester College  Rochester Hills, MI",1168,"1,153(98.72%)",15(1.28%),MI
 115,,"Ross Medical Education Center - Kalamazoo  Kalamazoo, MI",95,95(100.00%),-,MI
 116,,"Ross Medical Education Center-Ann Arbor  Ann Arbor, MI",87,87(100.00%),-,MI
@@ -3664,8 +3664,8 @@
 120,,"Dominican College of Blauvelt  Orangeburg, NY",1954,"1,425(72.93%)",529(27.07%),NY
 121,,"Dutchess BOCES-Practical Nursing Program  Poughkeepsie, NY",132,132(100.00%),-,NY
 122,,"Dutchess Community College  Poughkeepsie, NY",9061,"9,061(100.00%)",-,NY
-123,,"Eastern Suffolk BOCES  Riverhead, NY",11,11(100.00%),-,NY
-124,,"Eastern Suffolk BOCES  Brentwood, NY",261,261(100.00%),-,NY
+123,,"Eastern Suffolk BOCES  Brentwood, NY",261,261(100.00%),-,NY
+124,,"Eastern Suffolk BOCES  Riverhead, NY",11,11(100.00%),-,NY
 125,,"EDP School  Brooklyn, NY",159,159(100.00%),-,NY
 126,,"Electrical Training Center  Copiague, NY",114,114(100.00%),-,NY
 127,,"Elim Bible Institute and College  Lima, NY",97,97(100.00%),-,NY
@@ -4844,13 +4844,13 @@
 178,,"Manor College  Jenkintown, PA",632,632(100.00%),-,PA
 179,,"Mansfield University of Pennsylvania  Mansfield, PA",1882,"1,826(97.02%)",56(2.98%),PA
 180,,"Marywood University  Scranton, PA",2945,"1,960(66.55%)",985(33.45%),PA
-181,,"McCann School of Business & Technology  Hazle Township, PA",168,168(100.00%),-,PA
-182,,"McCann School of Business & Technology  Lewisburg, PA",289,289(100.00%),-,PA
-183,,"McCann School of Business & Technology  Allentown, PA",624,624(100.00%),-,PA
-184,,"McCann School of Business & Technology  Pottsville, PA",220,220(100.00%),-,PA
-185,,"McCann School of Business & Technology  Carlisle, PA",84,84(100.00%),-,PA
-186,,"McCann School of Business & Technology  Dickson City, PA",5,5(100.00%),-,PA
-187,,"McCann School of Business & Technology  Wilkes-Barre, PA",125,125(100.00%),-,PA
+181,,"McCann School of Business & Technology  Allentown, PA",624,624(100.00%),-,PA
+182,,"McCann School of Business & Technology  Pottsville, PA",220,220(100.00%),-,PA
+183,,"McCann School of Business & Technology  Carlisle, PA",84,84(100.00%),-,PA
+184,,"McCann School of Business & Technology  Dickson City, PA",5,5(100.00%),-,PA
+185,,"McCann School of Business & Technology  Lewisburg, PA",289,289(100.00%),-,PA
+186,,"McCann School of Business & Technology  Wilkes-Barre, PA",125,125(100.00%),-,PA
+187,,"McCann School of Business & Technology  Hazle Township, PA",168,168(100.00%),-,PA
 188,,"Mercer County Career Center  Mercer, PA",31,31(100.00%),-,PA
 189,,"Mercy Hospital School of Nursing  Pittsburgh, PA",154,154(100.00%),-,PA
 190,,"Mercyhurst University  Erie, PA",2759,"2,452(88.87%)",307(11.13%),PA
@@ -5658,8 +5658,8 @@
 338,,"Tint School of Makeup and Cosmetology-Irving  Irving, TX",104,104(100.00%),-,TX
 339,,"Toni & Guy Hairdressing Academy-Plano  Plano, TX",226,226(100.00%),-,TX
 340,,"Total Transformation Institute of Cosmetology  San Marcos, TX",42,42(100.00%),-,TX
-341,,"Trend Barber College  Houston, TX",92,92(100.00%),-,TX
-342,,"Trend Barber College  Houston, TX",38,38(100.00%),-,TX
+341,,"Trend Barber College  Houston, TX",38,38(100.00%),-,TX
+342,,"Trend Barber College  Houston, TX",92,92(100.00%),-,TX
 343,,"Tri-State Cosmetology Institute  El Paso, TX",175,175(100.00%),-,TX
 344,,"Trinity University  San Antonio, TX",2571,"2,395(93.15%)",176(6.85%),TX
 345,,"Trinity Valley Community College  Athens, TX",4449,"4,449(100.00%)",-,TX
@@ -5760,11 +5760,11 @@
 46,,"Snow College  Ephraim, UT",5563,"5,563(100.00%)",-,UT
 47,,"Southern Utah University  Cedar City, UT",9468,"8,550(90.30%)",918(9.70%),UT
 48,,"Southwest Technical College  Cedar City, UT",557,557(100.00%),-,UT
-49,,"Stevens-Henager College  West Haven, UT",205,205(100.00%),-,UT
-50,,"Stevens-Henager College  Orem, UT",143,143(100.00%),-,UT
-51,,"Stevens-Henager College  St. George, UT",111,111(100.00%),-,UT
-52,,"Stevens-Henager College  Murray, UT",651,563(86.48%),88(13.52%),UT
-53,,"Stevens-Henager College  Logan, UT",72,72(100.00%),-,UT
+49,,"Stevens-Henager College  Orem, UT",143,143(100.00%),-,UT
+50,,"Stevens-Henager College  St. George, UT",111,111(100.00%),-,UT
+51,,"Stevens-Henager College  Murray, UT",651,563(86.48%),88(13.52%),UT
+52,,"Stevens-Henager College  Logan, UT",72,72(100.00%),-,UT
+53,,"Stevens-Henager College  West Haven, UT",205,205(100.00%),-,UT
 54,,"Taylor Andrews Academy of Hair Design-West Jordan  West Jordan, UT",195,195(100.00%),-,UT
 55,,"Taylor Andrews Academy-Orem  Orem, UT",136,136(100.00%),-,UT
 56,,"Taylor Andrews Academy-St George  St. George, UT",132,132(100.00%),-,UT
@@ -5838,8 +5838,8 @@
 30,,"Chester Career College  CHESTER, VA",181,181(100.00%),-,VA
 31,,"Christopher Newport University  Newport News, VA",5081,"4,954(97.50%)",127(2.50%),VA
 32,,"College of William and Mary  Williamsburg, VA",8740,"6,285(71.91%)","2,455(28.09%)",VA
-33,,"Columbia College  Vienna, VA",357,357(100.00%),-,VA
-34,,"Columbia College  Centreville, VA",160,160(100.00%),-,VA
+33,,"Columbia College  Centreville, VA",160,160(100.00%),-,VA
+34,,"Columbia College  Vienna, VA",357,357(100.00%),-,VA
 35,,"Cosmopolitan Beauty and Tech School  Annandale, VA",115,115(100.00%),-,VA
 36,,"Culpeper Cosmetology Training Center  Culpeper, VA",53,53(100.00%),-,VA
 37,,"Dabney S Lancaster Community College  Clifton Forge, VA",1260,"1,260(100.00%)",-,VA
@@ -5966,8 +5966,8 @@
 8,,"Bellevue College  Bellevue, WA",13322,"13,322(100.00%)",-,WA
 9,,"Bellingham Technical College  Bellingham, WA",2392,"2,392(100.00%)",-,WA
 10,,"Big Bend Community College  Moses Lake, WA",1975,"1,975(100.00%)",-,WA
-11,,"BJ's Beauty & Barber College  Tacoma, WA",64,64(100.00%),-,WA
-12,,"BJ's Beauty & Barber College  Auburn, WA",13,13(100.00%),-,WA
+11,,"BJ's Beauty & Barber College  Auburn, WA",13,13(100.00%),-,WA
+12,,"BJ's Beauty & Barber College  Tacoma, WA",64,64(100.00%),-,WA
 13,,"Carrington College-Spokane  Spokane, WA",385,385(100.00%),-,WA
 14,,"Cascadia College  Bothell, WA",3425,"3,425(100.00%)",-,WA
 15,,"Central Washington University  Ellensburg, WA",12901,"12,080(93.64%)",821(6.36%),WA
@@ -5978,8 +5978,8 @@
 20,,"Clover Park Technical College  Lakewood, WA",3883,"3,883(100.00%)",-,WA
 21,,"Columbia Basin College  Pasco, WA",6708,"6,708(100.00%)",-,WA
 22,,"Cornish College of the Arts  Seattle, WA",658,658(100.00%),-,WA
-23,,"Cortiva Institute-Seattle  Federal Way, WA",113,113(100.00%),-,WA
-24,,"Cortiva Institute-Seattle  Seattle, WA",113,113(100.00%),-,WA
+23,,"Cortiva Institute-Seattle  Seattle, WA",113,113(100.00%),-,WA
+24,,"Cortiva Institute-Seattle  Federal Way, WA",113,113(100.00%),-,WA
 25,,"DigiPen Institute of Technology  Redmond, WA",1102,"1,028(93.28%)",74(6.72%),WA
 26,,"Divers Institute of Technology  Seattle, WA",242,242(100.00%),-,WA
 27,,"Eastern Washington University  Cheney, WA",12607,"11,473(91.00%)","1,134(9.00%)",WA
@@ -6164,9 +6164,9 @@
 26,,"Herzing University-Brookfield  Brookfield, WI",245,238(97.14%),7(2.86%),WI
 27,,"Herzing University-Kenosha  Kenosha, WI",299,280(93.65%),19(6.35%),WI
 28,,"Herzing University-Madison  Madison, WI",2156,"1,732(80.33%)",424(19.67%),WI
-29,,"House of Heavilin Beauty College-Academy of Beauty Professionals  Madison, WI",31,31(100.00%),-,WI
-30,,"House of Heavilin Beauty College-Academy of Beauty Professionals  Appleton, WI",38,38(100.00%),-,WI
-31,,"House of Heavilin Beauty College-Academy of Beauty Professionals  Green Bay, WI",36,36(100.00%),-,WI
+29,,"House of Heavilin Beauty College-Academy of Beauty Professionals  Green Bay, WI",36,36(100.00%),-,WI
+30,,"House of Heavilin Beauty College-Academy of Beauty Professionals  Madison, WI",31,31(100.00%),-,WI
+31,,"House of Heavilin Beauty College-Academy of Beauty Professionals  Appleton, WI",38,38(100.00%),-,WI
 32,,"Kaplan University-Milwaukee  Milwaukee, WI",346,283(81.79%),63(18.21%),WI
 33,,"Lac Courte Oreilles Ojibwa Community College  Hayward, WI",211,211(100.00%),-,WI
 34,,"Lakeland University  Plymouth, WI",2679,"1,998(74.58%)",681(25.42%),WI
