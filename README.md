@@ -35,11 +35,11 @@ datasource : https://www.collegetuitioncompare.com/compare/tables/?state=fl&fact
 - Filtering the Florida dataset for target universities (top 5 universities).
 - The following tables were cleaned and filtered:
 
-Graduation Rate
-Acceptance Rate
-SAT & ACT test Scores 
-Tuition Fees
-Student Population
+Graduation Rate, 
+Acceptance Rate, 
+SAT & ACT test Scores, 
+Tuition Fees, 
+Student Population.
 
 
 
