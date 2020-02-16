@@ -1,21 +1,21 @@
 # project Summary
 ----------------------------------------------------
-Project Title:
+- Project Title:
 	- Graduation Rate for Florida university
  
-Team Members:
+- Team Members:
 	- Cheikh Sidi El Moctar
 	- Bridgette Sanders
 	- Lisette Cruz
 	- Ricardo Kenny
 
-Research question to Answer:
+- Research question to Answer:
 	- What affect the graduation rate within Florida state?
  
-Dataset to be Used:
+- Dataset to be Used:
 	- Federal education datasets.
 
-Factor Attributes:
+- Factor Attributes:
 	- School size, 
 	- affordablity, 
 	- Public or private, 
